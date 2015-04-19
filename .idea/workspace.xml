@@ -1,7 +1,417 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a11a3803-a880-4902-8670-479aec6f9cf2" name="Default" comment="" />
+    <list default="true" id="a11a3803-a880-4902-8670-479aec6f9cf2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/GroovyConsola.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/cli/GroovyConsolaTests.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/Simple-Line-Icons.dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/js/modernizr.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/simple-line-icons.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/groovylito/Login$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/groovylito/Login.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/groovylito/Signup$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/groovylito/Signup.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_cs_CZ.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_da.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_it.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_ja.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_nb.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_nl.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_pl.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_pt_BR.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_pt_PT.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_ru.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_sv.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_th.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1/messages_zh_CN.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/GroovyLito_V1/groovylito/LoginSpec.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/GroovyLito_V1/groovylito/SignupSpec.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.eot" afterPath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.ttf" afterPath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.woff" afterPath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GroovyLito_V1.iml" afterPath="$PROJECT_DIR$/GroovyLito_V1.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/Italic.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/Italic.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/agenda.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/agenda.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/alarm-clock.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/alarm-clock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/alert.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/alert.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-center.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-center.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-justify.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-justify.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/align-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/anchor.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/anchor.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/android.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/android.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-double-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/angle-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/announcement.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/announcement.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/apple.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/apple.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/archive.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/archive.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-circle-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-top-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-top-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-top-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-top-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrow.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrows-corner.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrows-corner.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrows-horizontal.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrows-horizontal.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrows-vertical.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/arrows-vertical.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/back-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/back-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/back-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/back-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bag.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bar-chart-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bar-chart-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bar-chart.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bar-chart.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/basketball.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/basketball.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bell.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bell.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/blackboard.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/blackboard.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bolt-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bolt-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bolt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bolt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/book.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/book.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bookmark-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bookmark-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bookmark.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/bookmark.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/briefcase.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/briefcase.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/brush-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/brush-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/brush.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/brush.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/calendar.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/calendar.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/camera.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/camera.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/car.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/car.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/check-box.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/check-box.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/check.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/check.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/clip.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/clip.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/clipboard.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/clipboard.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/close.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/close.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cloud-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cloud-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cloud-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cloud-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cloud.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cloud.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comment-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comment-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comment.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comment.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comments-smiley.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comments-smiley.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comments.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/comments.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-backward.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-backward.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-eject.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-eject.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-forward.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-forward.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-pause.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-pause.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-play.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-play.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-record.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-record.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-shuffle.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-shuffle.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-skip-backward.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-skip-backward.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-skip-forward.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-skip-forward.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-stop.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/control-stop.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/create.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/create.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/credit-card.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/credit-card.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/crown.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/crown.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/css3.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/css3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cup.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cup.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cut.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/cut.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dashboard.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dashboard.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/desktop.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/desktop.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/direction-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/direction-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/direction.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/direction.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/download.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/download.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dribbble.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dribbble.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dropbox-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dropbox-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dropbox.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/dropbox.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/drupal.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/drupal.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/edit.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/edit.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/email.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/email.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/envelope.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/envelope.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/eraser.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/eraser.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/exchange-vertical.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/exchange-vertical.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/export.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/export.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/eye.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/eye.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/face-sad.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/face-sad.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/face-smile.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/face-smile.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/facebook.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/facebook.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/file.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/file.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/files.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/files.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/filter.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/filter.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flag-alt-2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flag-alt-2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flag-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flag-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flag.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flickr-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flickr-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flickr.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/flickr.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/folder.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/folder.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/fullscreen.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/fullscreen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/gallery.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/gallery.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/game.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/game.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/gift.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/gift.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/github.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/github.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/google.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/google.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grailsw" afterPath="$PROJECT_DIR$/grailsw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-drag.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-drag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-open.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-open.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-point-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-stop.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hand-stop.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/harddrive.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/harddrive.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/harddrives.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/harddrives.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/headphone-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/headphone-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/headphone.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/headphone.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/heart-broken.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/heart-broken.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/heart.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/heart.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/help-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/help-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/help.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/help.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/home.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/home.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/html5.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/html5.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hummer.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/hummer.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/icons.css" afterPath="$PROJECT_DIR$/web-app/fonts/icons/icons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/id-badge.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/id-badge.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/ie7/ie7.css" afterPath="$PROJECT_DIR$/web-app/fonts/icons/ie7/ie7.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/ie7/ie7.js" afterPath="$PROJECT_DIR$/web-app/fonts/icons/ie7/ie7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/image.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/image.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/import.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/import.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/signup/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/signup/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/infinite.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/infinite.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/info-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/info-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/info.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/info.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ink-pen.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ink-pen.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/instagram.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/instagram.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/joomla.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/joomla.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/js/jquery.sticky.js" afterPath="$PROJECT_DIR$/web-app/js/jquery.sticky.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/jsfiddle.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/jsfiddle.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/key.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/key.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layers-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layers-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layers.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layers.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-accordion-list.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-accordion-list.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-accordion-merged.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-accordion-merged.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-accordion-separated.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-accordion-separated.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column2-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column2-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column3-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column3-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column3.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column4-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column4-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column4.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-column4.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-btn-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-btn-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-btn-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-btn-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-center.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-center.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-cta-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid2-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid2-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid2-thumb.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid2-thumb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid3-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid3-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid3.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid4-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid4-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid4.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-grid4.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-line-solid.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-line-solid.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-large-image.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-large-image.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-post.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-post.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-thumb-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-thumb-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-thumb.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-list-thumb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-center-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-center-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-center.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-center.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-left-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-left-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-overlay-alt-2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-overlay-alt-2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-overlay-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-overlay-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-overlay.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-overlay.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-right-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-right-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-media-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu-full.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu-full.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu-separated.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu-separated.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu-v.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu-v.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-menu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-placeholder.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-placeholder.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-none.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-none.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-sidebar-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-slider-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-slider-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-slider.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-slider.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab-min.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab-min.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab-v.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab-v.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab-window.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab-window.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-tab.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-width-default-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-width-default-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-width-default.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-width-default.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-width-full.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout-width-full.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/layout.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/light-bulb.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/light-bulb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/line-dashed.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/line-dashed.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/line-dotted.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/line-dotted.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/line-double.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/line-double.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/fonts/linecons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/link.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/link.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/linkedin.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/linkedin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/linux.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/linux.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/list-ol.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/list-ol.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/list.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/list.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/location-arrow.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/location-arrow.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/location-pin.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/location-pin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/lock.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/lock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/loop.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/loop.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/magnet.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/magnet.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/map-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/map-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/map.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/map.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/marker-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/marker-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/marker.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/marker.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/medall-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/medall-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/medall.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/medall.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/menu-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/menu-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/menu.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/menu.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microphone-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microphone-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microphone.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microphone.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microsoft-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microsoft-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microsoft.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/microsoft.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/minus.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/minus.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/mobile.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/mobile.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/money.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/money.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/more-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/more-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/more.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/more.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/mouse-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/mouse-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/mouse.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/mouse.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/music-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/music-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/music.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/music.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/na.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/na.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/new-window.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/new-window.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/notepad.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/notepad.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/package.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/package.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/paint-bucket.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/paint-bucket.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/paint-roller.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/paint-roller.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/palette.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/palette.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/panel.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/panel.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/paragraph.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/paragraph.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pencil-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pencil-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pencil-alt2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pencil-alt2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pencil.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pencil.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pie-chart.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pie-chart.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pin-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pin-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pin.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pin.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pin2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pin2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pinterest-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pinterest-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pinterest.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pinterest.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/plug.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/plug.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/plus.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/plus.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/power-off.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/power-off.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/printer.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/printer.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pulse.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/pulse.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/quote-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/quote-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/quote-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/quote-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/receipt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/receipt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/reddit.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/reddit.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/reload.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/reload.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/rocket.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/rocket.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/rss-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/rss-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/rss.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/rss.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler-alt-2.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler-alt-2.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler-pencil.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler-pencil.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ruler.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/save-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/save-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/save.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/save.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/search.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/search.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/server.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/server.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/settings.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/settings.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/share-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/share-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/share.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/share.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/sharethis-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/sharethis-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/sharethis.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/sharethis.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shield.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shield.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-left-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-left-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-left.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-left.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-right-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-right-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-right.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shift-right.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shine.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shine.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shopping-cart-full.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shopping-cart-full.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shopping-cart.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shopping-cart.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shortcode.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/shortcode.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/show.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/show.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/signal.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/signal.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/skype.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/skype.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/slice.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/slice.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/smallcap.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/smallcap.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/soundcloud.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/soundcloud.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/split-h.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/split-h.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/split-v-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/split-v-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/split-v.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/split-v.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/spray.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/spray.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stack-overflow.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stack-overflow.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stamp.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stamp.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/star.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/star.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stats-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stats-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stats-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/stats-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/support.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/support.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tablet.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tablet.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tag.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tag.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/target.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/target.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/text.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/text.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/themify-favicon-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/themify-favicon-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/themify-favicon.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/themify-favicon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/themify-logo.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/themify-logo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/thought.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/thought.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/thumb-down.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/thumb-down.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/thumb-up.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/thumb-up.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ticket.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/ticket.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/time.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/time.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/timer.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/timer.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/trash.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/trash.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/trello.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/trello.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/truck.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/truck.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tumblr-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tumblr-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tumblr.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/tumblr.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/twitter-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/twitter-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/twitter.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/twitter.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/underline.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/underline.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/unlink.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/unlink.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/unlock.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/unlock.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/upload.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/upload.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/uppercase.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/uppercase.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/user.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/user.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/vector.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/vector.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/video-camera.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/video-camera.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/video-clapper.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/video-clapper.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/view-grid.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/view-grid.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/view-list-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/view-list-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/view-list.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/view-list.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/vimeo-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/vimeo-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/vimeo.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/vimeo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/volume.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/volume.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wallet.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wallet.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wand.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wand.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wheelchair.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wheelchair.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/widget-alt.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/widget-alt.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/widget.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/widget.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/widgetized.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/widgetized.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/window.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/window.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wordpress.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/wordpress.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/world.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/world.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/write.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/write.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/yahoo.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/yahoo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/youtube.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/youtube.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/zip.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/zip.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/zoom-in.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/zoom-in.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/fonts/icons/SVG/zoom-out.svg" afterPath="$PROJECT_DIR$/web-app/fonts/icons/SVG/zoom-out.svg" />
+    </list>
     <ignored path="GroovyLito_V1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,28 +433,10 @@
     <favorites_list name="GroovyLito_V1" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.2083335">
-              <caret line="674" column="0" selection-start-line="674" selection-start-column="0" selection-end-line="674" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.19298245">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -56,6 +448,7 @@
       <list>
         <option value="$PROJECT_DIR$/grails-app/views/index1.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
       </list>
     </option>
   </component>
@@ -68,10 +461,10 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-1" />
-    <option name="width" value="1026" />
+    <option name="width" value="1368" />
     <option name="height" value="743" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -114,9 +507,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -585,11 +978,12 @@
       <workItem from="1429332514298" duration="47000" />
       <workItem from="1429332964686" duration="73000" />
       <workItem from="1429333667449" duration="899000" />
+      <workItem from="1429422617624" duration="458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21629000" />
+    <option name="totallyTimeSpent" value="22087000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,19 +995,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="0" width="1026" height="743" extended-state="6" />
+    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5081967" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5081967" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.4918033" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -621,25 +1014,26 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5120385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5120385" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44376278" sideWeight="0.8509091" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4431818" sideWeight="0.8509091" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2837163" sideWeight="0.14909092" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Console" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32744783" sideWeight="0.4918033" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -656,6 +1050,22 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="674" column="0" selection-start-line="674" selection-start-column="0" selection-end-line="674" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -752,23 +1162,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/groovylito/Signup.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/groovylito/Login.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-app/images/logo/adad.png">
@@ -815,16 +1225,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.2083335">
-          <caret line="674" column="0" selection-start-line="674" selection-start-column="0" selection-end-line="674" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="654" column="0" selection-start-line="654" selection-start-column="0" selection-end-line="654" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19298245">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.5750916">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
           <folding />
         </state>
       </provider>
