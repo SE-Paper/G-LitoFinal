@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GroovyLito_V1.iml" filepath="$PROJECT_DIR$/GroovyLito_V1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GroovyLito_V1-grailsPlugins.iml" filepath="$PROJECT_DIR$/GroovyLito_V1-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/G-Lito.iml" filepath="$PROJECT_DIR$/.idea/G-Lito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/G-Lito-grailsPlugins.iml" filepath="$PROJECT_DIR$/.idea/G-Lito-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
