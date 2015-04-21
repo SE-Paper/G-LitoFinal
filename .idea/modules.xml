@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/G-Lito.iml" filepath="$PROJECT_DIR$/G-Lito.iml" />
       <module fileurl="file://$PROJECT_DIR$/GroovyLito_V1.iml" filepath="$PROJECT_DIR$/GroovyLito_V1.iml" />
       <module fileurl="file://$PROJECT_DIR$/GroovyLito_V1-grailsPlugins.iml" filepath="$PROJECT_DIR$/GroovyLito_V1-grailsPlugins.iml" />
     </modules>
