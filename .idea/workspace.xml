@@ -1,7 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a11a3803-a880-4902-8670-479aec6f9cf2" name="Default" comment="" />
+    <list default="true" id="a11a3803-a880-4902-8670-479aec6f9cf2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/G-Lito-grailsPlugins.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/G-Lito.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib$_closure2$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib$_closure2$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib$_closure2$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib$_closure2$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryResourceTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryService$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryService$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryService$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryService$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryTagLib$_closure1$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryTagLib$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryTagLib$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryTagLib$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/JQueryTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetMethodTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetMethodTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetPipelineFilter$_doFilter_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetPipelineFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetProcessorService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetResourceLocator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure1$_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure2$_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure6$_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib$_paramsToHtmlAttr_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/AssetsTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/CachingLinkGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/LinkGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/EmptyResource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringAssetCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_cacheAllResources_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_cacheAllResources_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_createInputStreamClosure_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure3$_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure5$_closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_getAssets_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_scanForFiles_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_scanForFiles_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver$_scanForFiles_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/asset/pipeline/grails/fs/SpringResourceAssetResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/BlockingCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheBeanPostProcessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheConfigArtefactHandler$CacheConfigGrailsClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheConfigArtefactHandler$DefaultCacheConfigGrailsClass.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheConfigArtefactHandler.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheEvict.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CachePut.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheTagLib$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheTagLib$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CacheTagLib.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/Cacheable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/ConfigBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/ConfigLoader$_sortConfigs_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/ConfigLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CustomCacheKeyGenerator$CacheKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/CustomCacheKeyGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsAnnotationCacheOperationSource$DefaultCacheKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsAnnotationCacheOperationSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsCacheAdminService$_clearAllCaches_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsCacheAdminService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsCacheManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsConcurrentMapCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsConcurrentMapCacheManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/GrailsValueWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/SerializableByteArrayOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/SerializableOutputStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/SimpleKeyGenerator$SimpleKey.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/SimpleKeyGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/Timer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/compiler/CacheTransformation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/util/ClassUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/AlreadyGzippedException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/ContentCacheParameters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/GenericResponseWrapper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/GenericResponseWrapper$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/GenericResponseWrapper$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/GenericResponseWrapper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/Header$Type.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/Header.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/HttpDateFormatter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/PageInfo$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/PageInfo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/SerializableCookie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/AbstractFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/CacheExpressionRootObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/CacheOperationContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/DefaultWebKeyGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/ExpressionEvaluator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/LazyParamAwareEvaluationContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/NoOpFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/PageFragmentCachingFilter$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/PageFragmentCachingFilter$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/PageFragmentCachingFilter$CacheStatus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/PageFragmentCachingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/WebKeyGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/simple/MemoryBlockingCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/simple/MemoryCacheConfiguration.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/cache/web/filter/simple/MemoryPageFragmentCachingFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ChangelogXml2Groovy$_appendAttrs_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ChangelogXml2Groovy$_appendWithIndent_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ChangelogXml2Groovy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DbdocController$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DbdocController.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$_expandExpressions_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$_extractZipFile_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$_handleIncludedChangeLog_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$_processIncludeAll_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$_processProperty_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$_processRollback_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder$_setPropertiesFromAttributes_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/DslBuilder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormColumn$_isIdentityColumn_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormColumn.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createIdentifierGenerator_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createSnapshot_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_createSnapshot_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure3$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator$_filterSnapshot_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseSnapshotGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDatabaseTypeConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GormDiff.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsChange$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsChange.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsChangeLogParser$_setChangelogProperties_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsChangeLogParser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsClassLoaderResourceAccessor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsDiffStatusListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GrailsPrecondition.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/GroovyAwareStringChangeLogSerializer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/HibernateAwareTypeConverter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationRunner$_autoRun_closure1$_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationRunner$_autoRun_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationRunner$_runMigrations_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_getDataSourceConfigs_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_getDatabase_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_getDatabases_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure10.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure11.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure12.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure13.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure14.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure15.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure16.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure17.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure18$_closure20.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure18.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure19.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils$_removeIgnoredObjects_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MigrationUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer$_hasForeignKeyConstraintChange_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MySQLCompatibleChangeLogSerializer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/MysqlAwareCreateTableGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/NoopVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2$_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2$_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ScriptUtils$_appendToChangelog_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ScriptUtils$_executeAndWrite_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ScriptUtils$_generatePreviousChangesetSql_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/ScriptUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/Slf4jLogger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorListWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/AuthorWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogListWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/ChangeLogWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/ColumnWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLListWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/HTMLWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/MemoryDocVisitor.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingChangesWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/PendingSQLWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/RecentChangesWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableListWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableWriter$_writeCustomHTML_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/databasemigration/dbdoc/TableWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/grails/plugin/webxml/FilterManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/hibernate.cfg.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig$_init_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig$_init_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider$_doRemoteFunction_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/plugins/jquery/JQueryProvider.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator$GrailsControllerType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/DefaultGrailsTemplateGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/DomainClassPropertyComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/GrailsTemplateGenerator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/SimpleDomainClassPropertyComparator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/view/ScaffoldedGroovyPageView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/codehaus/groovy/grails/scaffolding/view/ScaffoldingViewResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/InlineExplodedTomcatServer$_preStart_closure1$_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/InlineExplodedTomcatServer$_preStart_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/InlineExplodedTomcatServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/ParentDelegatingClassLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/TomcatKillSwitch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/TomcatLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/TomcatServer$_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/TomcatServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/TomcatServerFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_addEventHookToBinding_closure5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createEventListener_closure2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createEventListener_closure3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createEventListener_closure4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_createExecutionContext_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_findSystemClasspathJars_closure7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_findSystemClasspathJars_closure8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_startSecure_closure6$_closure9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer$_startSecure_closure6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/ForkedTomcatServer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatDevelopmentRunner.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatExecutionContext$_buildMinimalIsolatedClasspath_closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatExecutionContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GroovyLito_V1-grailsPlugins/org/grails/plugins/tomcat/fork/TomcatWarRunner.class" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GroovyLito_V1-grailsPlugins.iml" afterPath="$PROJECT_DIR$/G-Lito-grailsPlugins.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/GroovyLito_V1.iml" afterPath="$PROJECT_DIR$/G-Lito.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="GroovyLito_V1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,6 +286,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+<<<<<<< HEAD
       <file leaf-file-name="index.gsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
@@ -42,6 +302,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.9795918" vertical-offset="126" max-vertical-offset="816">
               <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+=======
+      <file leaf-file-name="resources.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10909091">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
               <folding />
             </state>
           </provider>
@@ -49,11 +316,24 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/grails-app/views/index1.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/conf/spring/resources.groovy" />
       </list>
     </option>
   </component>
@@ -61,13 +341,30 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1616" />
     <option name="height" value="876" />
+=======
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="743" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -94,6 +391,10 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+<<<<<<< HEAD
+=======
+      <pane id="Scratches" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -102,6 +403,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="G-Lito" />
@@ -147,6 +449,10 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+=======
+        </subPane>
+      </pane>
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -156,6 +462,12 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+<<<<<<< HEAD
+=======
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
@@ -420,7 +732,11 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <configuration default="false" name="Grails:G-Lito" type="GrailsRunConfigurationType" factoryName="Grails">
+=======
+    <configuration default="false" name="Grails:GroovyLito_V1" type="GrailsRunConfigurationType" factoryName="Grails">
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
       <module name="G-Lito" />
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -453,13 +769,26 @@
       <workItem from="1429332514298" duration="47000" />
       <workItem from="1429332964686" duration="73000" />
       <workItem from="1429333667449" duration="899000" />
+<<<<<<< HEAD
       <workItem from="1429405498408" duration="1504000" />
       <workItem from="1429630007754" duration="17949000" />
+=======
+      <workItem from="1429422617624" duration="458000" />
+      <workItem from="1429568174458" duration="608000" />
+      <workItem from="1429568820556" duration="95000" />
+      <workItem from="1429568950604" duration="723000" />
+      <workItem from="1429569676887" duration="726000" />
+      <workItem from="1429570451883" duration="795000" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="41082000" />
+=======
+    <option name="totallyTimeSpent" value="25034000" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,6 +800,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
@@ -484,16 +814,36 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266129" sideWeight="0.4918033" order="10" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5120385" sideWeight="0.5121212" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.48560607" order="10" side_tool="false" content_ui="tabs" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+=======
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2392473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
@@ -502,16 +852,32 @@
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2837163" sideWeight="0.14909092" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5120385" sideWeight="0.4878788" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.4969697" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4431818" sideWeight="0.8509091" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2837163" sideWeight="0.14909092" order="6" side_tool="true" content_ui="tabs" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -542,7 +908,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="11458" max-vertical-offset="11934">
           <caret line="674" column="0" selection-start-line="674" selection-start-column="0" selection-end-line="674" selection-end-column="0" />
@@ -582,6 +948,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
@@ -636,24 +1003,57 @@
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
           <folding />
         </state>
+=======
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46835443">
+          <caret line="127" column="26" selection-start-line="127" selection-start-column="26" selection-end-line="127" selection-end-column="26" />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/js/jquery.sticky.js">
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/apple-touch-icon-retina.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/grails_logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/assets/images/springsource.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.50751877" vertical-offset="0" max-vertical-offset="0">
           <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+=======
+        <state vertical-scroll-proportion="0.9230769">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/style.css">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
@@ -668,19 +1068,26 @@
       <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
         <state />
       </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+        <state vertical-scroll-proportion="0.9230769">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/domain/groovylito/Login.groovy">
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -695,14 +1102,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-2.9795918" vertical-offset="126" max-vertical-offset="816">
           <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+=======
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4769539" vertical-offset="2244" max-vertical-offset="11951">
           <caret line="146" column="65" selection-start-line="146" selection-start-column="65" selection-end-line="146" selection-end-column="65" />
+=======
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10909091">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
           <folding />
         </state>
       </provider>
@@ -712,6 +1128,7 @@
     <option name="map">
       <map>
         <entry key="G-Lito">
+<<<<<<< HEAD
           <value>
             <GrailsSettings>
               <option name="buildConfigCrc" value="-166523799" />
@@ -728,6 +1145,8 @@
           </value>
         </entry>
         <entry key="GroovyLito_V1">
+=======
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
           <value>
             <GrailsSettings>
               <option name="buildConfigCrc" value="-166523799" />
@@ -743,12 +1162,99 @@
             </GrailsSettings>
           </value>
         </entry>
-        <entry key="GroovyLito_V1-grailsPlugins">
+        <entry key="G-Lito-grailsPlugins">
           <value>
             <GrailsSettings />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Hibernate</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-2.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>G-Lito</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

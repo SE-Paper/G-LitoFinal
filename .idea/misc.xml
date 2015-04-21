@@ -20,6 +20,7 @@
       </profile>
     </annotationProcessing>
   </component>
+<<<<<<< HEAD
   <component name="CopyrightManager" default="" />
   <component name="DaemonCodeAnalyzer">
     <disable_hints />
@@ -29,6 +30,8 @@
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
   <component name="IdProvider" IDEtalkID="7ACD564451DC767B9F79E9B03EE270D6" />
+=======
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -45,6 +48,7 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -163,4 +167,6 @@
       </state>
     </states>
   </component>
+=======
+>>>>>>> 9a1e57280247a6080911fea0a13a4d226bde4202
 </project>
