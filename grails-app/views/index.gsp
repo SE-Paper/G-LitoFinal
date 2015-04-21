@@ -6,13 +6,22 @@
 	<title> GroovyLito</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
 	<link rel="stylesheet" href="css/bootstrap.css" media="screen">
 	<link rel="stylesheet" href="skins/eden.css" media="screen">
 	<link rel="stylesheet" href="css/style.css" media="screen">
 	<link href="fonts/icons/icons.css" rel="stylesheet">
 	<link href="css/animate.css" rel="stylesheet">
 
+
+
+
+
+
+
 </head>
+
+
 <body   data-spy="scroll" data-target="#topnav"  id="top">
 
 <section class="header-area-home" id="header-area-home">
@@ -51,6 +60,7 @@
 		</div>
 	</div>
 	<div id="featured-slider-container">
+
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -175,7 +185,6 @@
 			</div>
 		</div>
 	</div>
-
 </section>
 <section class="featured-content-area" id="featured-content-area">
 	<div class="container">
@@ -238,6 +247,12 @@
 				<p class="lead wow fadeInUp"  data-wow-delay="600ms">Conocer y aprender Groovy nunca fue tan fácil y divertido, GroovyLito te
                     permite incursionar en el mundo de este lenguaje de programación, brindandote herramientas teóricas y prácticas que en corto
                     tiempo te convertirán en un "sensei" programando en Groovy. Vamos, no pierdas tiempo y comienza a GroovyLiarte!</p>
+
+				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Nosotros</span></h2>
+				<p class="lead wow fadeInUp"  data-wow-delay="600ms">GroovyLito está dirigido a personas que necesiten alcanzar este conocimiento para
+				iniciar con los proyectos que estén relacionados con el desarrollo de software, de tal
+				manera que sea un servicio de apoyo directo, rápido y eficaz.:</p>
+
 			</div>
 			<div class="col-md-12 highlight-boxes">
 				<div class="col-md-4 wow fadeInLeft" data-wow-delay="500ms">
@@ -293,15 +308,16 @@
 					<div class="featured-content-box text-center">
 						<i class="tn-agenda ico-lg text-danger"></i>
 
+
 						<h3>Distribución</h3>
 						<p>A GroovyLito también le gusta ser LegaLito, por eso su contenido se distribuye bajo la licencia
                         Creative Commons - Attribution 4.0 International.</p>
 						<!--<button class="btn btn-info">Mas Info </button>-->
+
+
 					</div>
 				</div>
 			</div>
-
-
 		</div>
 	</div>
 
@@ -313,7 +329,7 @@
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
 				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Desarrolladores</span></h2>
-				<p class="lead wow fadeInUp"  data-wow-delay="600ms">Conoce al GroovyLito Team </p>
+				<p class="lead wow fadeInUp"  data-wow-delay="600ms">Conoce al "GroovyLito Team" </p>
 			</div>
 
 			<div class="col-sm-6 col-md-4">
@@ -494,7 +510,23 @@
 					</div>
 				</div>
 			</div>
+<<<<<<< HEAD
         -->
+            <!--
+			<div class="col-md-12 wow fadeInUp" data-wow-delay="600ms">
+				<div class="featured-content-box text-center">
+
+					<!-- Script de Presentacion de la consola de Groovy -->
+            <!--
+					<script>
+						gc_id = 1; //the script id you want to embed, you can get this in its url
+						gc_width = 700; //The iframe's width
+						gc_height = 700;  //The iframe's height
+					</script>
+					<script language="javascript" src="http://groovyconsole.appspot.com/js/embed.js"></script>
+
+			</div>-->
+
 		</div>
 	</div>
 </section>
@@ -504,7 +536,7 @@
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
 				<h2 class="header-boxed  wow zoomIn" data-wow-iteration="1"><span>Planes</span></h2>
-				<p class="lead wow fadeInUp" data-wow-delay="200ms">Si usted es una persona que busca ser cada dia mejor en lo que hace, le afrocemos los planes para que profundice en Groovy a un nivel BRUTAL!!!:</p>
+				<p class="lead wow fadeInUp" data-wow-delay="200ms">Si usted es una persona que busca ser cada dia mejor en lo que hace, le ofrecemos los planes para que profundice en Groovy a un nivel BRUTAL!!!</p>
 			</div>
 
 			<div class="col-md-12">
@@ -590,6 +622,7 @@
 			<div class="col-md-12 text-center section-intro">
 				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Contáctenos</span></h2>
 				<p class="lead">GroovyLito está atento a tus opiniones y sugerencias, escríbele!</p>
+
 			</div>
 			<div class="col-md-6">
 				<div class="contact-form wow fadeInLeft">
@@ -665,7 +698,6 @@
 		</div>
 	</div>
 </section>
-
 <footer>
 	<div class="container">
 		<div class="row">
@@ -673,7 +705,7 @@
 				<hr/>
 				<h2> <img src="images/logos/groovylito_name.png" width="300" heigth="300"/></h2>
 
-				<p>Síguenos</p>
+				<p>Síguenos en las redes sociales</p>
 				<a href="https://twitter.com/GroovyLito" target="_blank" class="btn-social btn-twitter btn-sm"><i class="tn-twitter"></i></a>
 				<a href="https://www.facebook.com/profile.php?id=100009382245358"  target="_blank" class="btn-social btn-facebook btn-sm"><i class="tn-facebook"></i></a>
 				<a href="https://plus.google.com/u/2/106524193371982262022/posts?hl=es" target="_blank" class="btn-social btn-google-plus btn-sm"><i class="tn-google"></i></a>
@@ -685,9 +717,6 @@
 	</div>
 	<br/><br/>
 </footer>
-
-
-
 <script src="js/jquery-2.1.3.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.sticky.js"></script>
