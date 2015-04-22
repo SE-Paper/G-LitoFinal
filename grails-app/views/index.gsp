@@ -12,16 +12,7 @@
 	<link rel="stylesheet" href="css/style.css" media="screen">
 	<link href="fonts/icons/icons.css" rel="stylesheet">
 	<link href="css/animate.css" rel="stylesheet">
-
-
-
-
-
-
-
 </head>
-
-
 <body   data-spy="scroll" data-target="#topnav"  id="top">
 
 <section class="header-area-home" id="header-area-home">
@@ -47,6 +38,7 @@
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->
 							<!--<li><a href="#pricing">Planes</a></li>-->
 							<li><a href="#curious">Contacto</a></li>
+							<li><a href="perfil/index.gsp">Usuario_1</a></li>
 
 						</ul>
 
@@ -242,13 +234,16 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
-				<!--<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Aca poner imagen GroovyLito</span></h2>-->
-                <th align = "center"><a><img src="images/logos/groovylito_logo1.png" width="350" heigth="350"></a></th>
-				<p class="lead wow fadeInUp"  data-wow-delay="600ms">Conocer y aprender Groovy nunca fue tan fácil y divertido, GroovyLito te
-                    permite incursionar en el mundo de este lenguaje de programación, brindandote herramientas teóricas y prácticas que en corto
-                    tiempo te convertirán en un "sensei" programando en Groovy. Vamos, no pierdas tiempo y comienza a GroovyLiarte!</p>
 
-				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Nosotros</span></h2>
+				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Acerca de GroovyLito</span></h2>
+				<p class="lead wow fadeInUp"  data-wow-delay="600ms">Conocer y aprender Groovy nunca fue tan fácil y divertido, GroovyLito te
+				permite incursionar en el mundo de este lenguaje de programación, brindandote herramientas teóricas y prácticas que en corto
+				tiempo te convertirán en un "sensei" programando en Groovy. Vamos, no pierdas tiempo y comienza a GroovyLiarte!</p>
+
+				<!--<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Aca poner imagen GroovyLito</span></h2>-->
+                <th align = "center"><a><img src="images/logos/groovylito_logo1.png"  class="img-responsive center-block" width="350" heigth="350"></a></th>
+
+
 				<p class="lead wow fadeInUp"  data-wow-delay="600ms">GroovyLito está dirigido a personas que necesiten alcanzar este conocimiento para
 				iniciar con los proyectos que estén relacionados con el desarrollo de software, de tal
 				manera que sea un servicio de apoyo directo, rápido y eficaz.:</p>
@@ -622,24 +617,23 @@
 			<div class="col-md-12 text-center section-intro">
 				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Contáctenos</span></h2>
 				<p class="lead">GroovyLito está atento a tus opiniones y sugerencias, escríbele!</p>
-
-			</div>
-			<div class="col-md-6">
-				<div class="contact-form wow fadeInLeft">
-					<form class="row" method="get" action="">
-						<div class="col-md-6">
-							<div class="form-group"><label>Tu nombre <i class="fa fa-asterisk"></i></label> <input type="text" name="name" class="form-control"></div>
-						</div>
-						<div class="col-md-6">
-							<div class="form-group"><label>Tu e-mail<i class="fa fa-asterisk"></i></label> <input type="email" name="email" class="form-control"></div>
-						</div>
-						<div class="col-md-12">
-							<div class="form-group"><label>Tu mensajee</label> <textarea name="message" rows="6" class="form-control"></textarea></div>
-							<div class="send_result"></div>
-						</div>
-						<div class="col-md-12"><input type="submit" value="SUBMIT" class="btn btn-primary btn-lg btn-block" name="submit">
-						</div>
-					</form>
+				<div class="col-md-6 col-lg-push-3">
+					<div class="contact-form wow fadeInLeft">
+						<form class="row" method="get" action="">
+							<div class="col-md-6">
+								<div class="form-group"><label>Tu nombre <i class="fa fa-asterisk"></i></label> <input type="text" name="name" class="form-control"></div>
+							</div>
+							<div class="col-md-6">
+								<div class="form-group"><label>Tu e-mail<i class="fa fa-asterisk"></i></label> <input type="email" name="email" class="form-control"></div>
+							</div>
+							<div class="col-md-12">
+								<div class="form-group"><label>Tu mensajee</label> <textarea name="message" rows="6" class="form-control"></textarea></div>
+								<div class="send_result"></div>
+							</div>
+							<div class="col-md-12"><input type="submit" value="SUBMIT" class="btn btn-primary btn-lg btn-block" name="submit">
+							</div>
+						</form>
+					</div>
 				</div>
 			</div>
 			<!--
@@ -703,15 +697,14 @@
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
 				<hr/>
-				<h2> <img src="images/logos/groovylito_name.png" width="300" heigth="300"/></h2>
-
+				<h2> <img src="images/logos/groovylito_name.png"  class=" img-responsive center-block" width="300" heigth="300"/></h2>
 				<p>Síguenos en las redes sociales</p>
 				<a href="https://twitter.com/GroovyLito" target="_blank" class="btn-social btn-twitter btn-sm"><i class="tn-twitter"></i></a>
 				<a href="https://www.facebook.com/profile.php?id=100009382245358"  target="_blank" class="btn-social btn-facebook btn-sm"><i class="tn-facebook"></i></a>
 				<a href="https://plus.google.com/u/2/106524193371982262022/posts?hl=es" target="_blank" class="btn-social btn-google-plus btn-sm"><i class="tn-google"></i></a>
-				<a href="https://vimeo.com/user39374369"  target="_blank" class="btn-social btn-vimeo btn-sm"><i class="tn-vimeo"></i></a>
+				<a href="https://vimeo.com/u"  target="_blank" class="btn-social btn-vimeo btn-sm"><i class="tn-vimeo"></i></a>
 				<a href="https://www.dropbox.com" target="_blank" class="btn-social btn-dropbox btn-sm"><i class="tn-dropbox"></i></a><br />
-                <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+                <a rel="license"  target="_blank" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 			</div>
 		</div>
 	</div>
