@@ -615,7 +615,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center section-intro">
-				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Contáctenos</span></h2>
+				<h2 class="header-boxed wow zoomIn" data-wow-iteration="1"><span>Contáctanos</span></h2>
 				<p class="lead">GroovyLito está atento a tus opiniones y sugerencias, escríbele!</p>
 				<div class="col-md-6 col-lg-push-3">
 					<div class="contact-form wow fadeInLeft">
