@@ -32,7 +32,7 @@
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav">
 							<li><a href="#"><img src="${request.contextPath}/images/logos/groovylito_name.png" width="100" heigth="250"/></a></li>
-							<li class="active"><a href="#top">Inicio</a></li>
+							<li class="active"><a href="#header-area-home">Inicio</a></li>
 							<li><a href="#why-us">Acerca de GroovyLito</a></li>
 							<li><a href="#out-team">Desarrolladores</a></li>
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->

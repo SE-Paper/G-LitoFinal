@@ -12,8 +12,46 @@
 	<link rel="stylesheet" href="css/style.css" media="screen">
 	<link href="fonts/icons/icons.css" rel="stylesheet">
 	<link href="css/animate.css" rel="stylesheet">
+
+	%{-- Link Para la welcome--}%
+
+	<link href="${request.contextPath}/welcome/css/font-awesome.min.css" rel="stylesheet" media="screen">
+	<link href="${request.contextPath}/welcome/css/simple-line-icons.css" rel="stylesheet" media="screen">
+	<link href="${request.contextPath}/welcome/css/animate.css" rel="stylesheet">
+	<link href="${request.contextPath}/welcome/css/style.css" rel="stylesheet" media="screen">
+	<script src="${request.contextPath}/welcome/js/modernizr.custom.js"></script>
+
+	%{-- Link Para la welcome--}%
+
 </head>
-<body   data-spy="scroll" data-target="#topnav"  id="top">
+<body   data-spy="scroll" data-target="#home"  id="top">
+
+
+<div id="preloader">
+	<div id="status"></div>
+</div>
+
+<!-- Inicio de  Bienvenida -->
+
+<section id="home" class="pfblock-image screen-height">
+	<div class="home-overlay"></div>
+	<div class="intro">
+		<div class="start">Hola Tod@s.</div>
+		<h1 >¡BIENVENIDOS!</h1>
+		<div class="start">Clic abajo.</div>
+	</div>
+
+	<a href="#header-area-home">
+		<div class="scroll-down">
+			<span>
+				<i class="fa fa-angle-down fa-2x"></i>
+			</span>
+		</div>
+	</a>
+
+</section>
+
+<!--Fin de  Bienvenida -->
 
 <section class="header-area-home" id="header-area-home">
 	<div id="main-nav-container">
@@ -32,7 +70,7 @@
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav">
                             <li><a href="#"><img src="images/logos/groovylito_name.png" width="100" heigth="250"/></a></li>
-							<li class="active"><a href="#top">Inicio</a></li>
+							<li class="active "><a href="#header-area-home">Inicio</a></li>
 							<li><a href="#why-us">Acerca de GroovyLito</a></li>
 							<li><a href="#out-team">Desarrolladores</a></li>
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->
@@ -611,6 +649,7 @@
 		</div>
 	</div>
 </section>-->
+
 <section class="curious" id="curious">
 	<div class="container">
 		<div class="row">
@@ -710,11 +749,33 @@
 	</div>
 	<br/><br/>
 </footer>
+
+<div class="scroll-up">
+	<a href="#header-area-home"><i class="fa fa-angle-up"></i></a>
+</div>
+
 <script src="js/jquery-2.1.3.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery.sticky.js"></script>
 <script src="js/wow.min.js"></script>
 <script src="js/site.js"></script>
+
+
+%{--JavaScripts para Pagina de inicio--}%
+
+<script src="${request.contextPath}/welcome/js/jquery-1.11.1.min.js"></script>
+<script src="${request.contextPath}/welcome/bootstrap/js/bootstrap.min.js"></script>
+<script src="${request.contextPath}/welcome/js/jquery.parallax-1.1.3.js"></script>
+<script src="${request.contextPath}/welcome/js/imagesloaded.pkgd.js"></script>
+<script src="${request.contextPath}/welcome/js/jquery.sticky.js"></script>
+<script src="${request.contextPath}/welcome/js/smoothscroll.js"></script>
+<script src="${request.contextPath}/welcome/js/wow.min.js"></script>
+<script src="${request.contextPath}/welcome/js/jquery.easypiechart.js"></script>
+<script src="${request.contextPath}/welcome/js/waypoints.min.js"></script>
+<script src="${request.contextPath}/welcome/js/jquery.cbpQTRotator.js"></script>
+<script src="${request.contextPath}/welcome/js/custom.js"></script>
+
+%{--JavaScripts para Pagina de inicio--}%
 
 </body>
 </html>
