@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/G-Lito.iml" filepath="$PROJECT_DIR$/G-Lito.iml" />
       <module fileurl="file://$PROJECT_DIR$/G-Lito-grailsPlugins.iml" filepath="$PROJECT_DIR$/G-Lito-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/G-Lito-grailsPlugins.iml" filepath="$PROJECT_DIR$/G-Lito-grailsPlugins.iml" />
     </modules>
   </component>
 </project>

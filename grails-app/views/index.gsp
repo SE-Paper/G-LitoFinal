@@ -76,7 +76,7 @@
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->
 							<!--<li><a href="#pricing">Planes</a></li>-->
 							<li><a href="#curious">Contacto</a></li>
-							<li><a href="perfil/index.gsp">Usuario_1</a></li>
+							<li><a href="login/index">GroovyLiarte</a></li>
 
 						</ul>
 

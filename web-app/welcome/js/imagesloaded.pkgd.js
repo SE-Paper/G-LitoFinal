@@ -1,25 +1,7 @@
-/*!
- * imagesLoaded PACKAGED v3.0.2
- * JavaScript is all like "You images are done yet or what?"
- */
-
-/*!
- * EventEmitter v4.1.0 - git.io/ee
- * Oliver Caldwell
- * MIT license
- * @preserve
- */
 
 (function (exports) {
 	// Place the script in strict mode
 	'use strict';
-
-	/**
-	 * Class for managing events.
-	 * Can be extended to provide event functionality in other classes.
-	 *
-	 * @class Manages event registering and emitting.
-	 */
 	function EventEmitter() {}
 
 	// Shortcuts to improve speed and size

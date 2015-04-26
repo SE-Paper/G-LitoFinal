@@ -38,7 +38,7 @@
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->
 							<!--<li><a href="#pricing">Planes</a></li>-->
 							<li><a href="#curious">Contacto</a></li>
-							<li><a href="${request.contextPath}/perfil/index.gsp">Usuario_1</a></li>
+							<li><a href="${request.contextPath}/perfil/index">GroovyLero_1</a></li>
 
 						</ul>
 
