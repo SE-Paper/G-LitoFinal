@@ -12,19 +12,19 @@ class ForumController {
 
     def index(Integer max) {
         params.max = Math.min(max ?: 10, 100)
-        respond Forum.list(params), model:[forumInstanceCount: Forum.count()]
+        respond Forum1.list(params), model:[forumInstanceCount: Forum1.count()]
     }
 
-    def show(Forum forumInstance) {
+    def show(Forum1 forumInstance) {
         respond forumInstance
     }
 
     def create() {
-        respond new Forum(params)
+        respond new Forum1(params)
     }
 
     @Transactional
-    def save(Forum forumInstance) {
+    def save(Forum1 forumInstance) {
         if (forumInstance == null) {
             notFound()
             return
@@ -46,12 +46,12 @@ class ForumController {
         }
     }
 
-    def edit(Forum forumInstance) {
+    def edit(Forum1 forumInstance) {
         respond forumInstance
     }
 
     @Transactional
-    def update(Forum forumInstance) {
+    def update(Forum1 forumInstance) {
         if (forumInstance == null) {
             notFound()
             return
@@ -74,7 +74,7 @@ class ForumController {
     }
 
     @Transactional
-    def delete(Forum forumInstance) {
+    def delete(Forum1 forumInstance) {
 
         if (forumInstance == null) {
             notFound()

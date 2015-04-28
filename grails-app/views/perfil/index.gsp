@@ -62,7 +62,7 @@
 				<li class="mt">
 					<a class="active" href="${request.contextPath}/perfil/index">
 						<i class="fa fa-dashboard"></i>
-						<span>Intrdocion</span>
+						<span>Introducción</span>
 					</a>
 				</li>
 
@@ -93,7 +93,7 @@
 					</a>
 				</li>
 				<li class="sub-menu">
-					<a href="${request.contextPath}/forum/index" >
+					<a href="${request.contextPath}/forum1/index" >
 						<i class="fa fa-th"></i>
 						<span>Foro</span>
 					</a>
@@ -105,20 +105,25 @@
 						<span>Soportes</span>
 					</a>
 					<ul class="sub">
-						<li><a  href="general.html">General</a></li>
-						<li><a  href="buttons.html">Buttons</a></li>
-						<li><a  href="panels.html">Panels</a></li>
-						<li><a  href="morris.html">Morris</a></li>
-						<li><a  href="chartjs.html">Chartjs</a></li>
-						<li><a  href="calendar.html">Calendar</a></li>
-						<li><a  href="gallery.html">Gallery</a></li>
-						<li><a  href="todo_list.html">Todo List</a></li>
-						<li><a  href="blank.html">Blank Page</a></li>
-						<li><a  href="login.html">Login</a></li>
-						<li><a  href="lock_screen.html">Lock Screen</a></li>
-						<li><a  href="form_component.html">Form Components</a></li>
-						<li><a  href="basic_table.html">Basic Table</a></li>
-						<li><a  href="responsive_table.html">Responsive Table</a></li>
+                        <li> <a href="${request.contextPath}/admin/index">Administrador</a></li>
+                        <li> <a href="${request.contextPath}/regular/index">Regular</a></li>
+                        <li> <a href="${request.contextPath}/forum/index">Foro</a></li>
+                        <li> <a href="${request.contextPath}/post/index">Post</a></li>
+                        <li> <a href="${request.contextPath}/file/index">File</a></li>
+                        <!--
+                        <li><a  href="buttons.html">Buttons</a></li>
+                        <li><a  href="panels.html">Panels</a></li>
+                        <li><a  href="morris.html">Morris</a></li>
+                        <li><a  href="chartjs.html">Chartjs</a></li>
+                        <li><a  href="calendar.html">Calendar</a></li>
+                        <li><a  href="gallery.html">Gallery</a></li>
+                        <li><a  href="todo_list.html">Todo List</a></li>
+                        <li><a  href="blank.html">Blank Page</a></li>
+                        <li><a  href="login.html">Login</a></li>
+                        <li><a  href="lock_screen.html">Lock Screen</a></li>
+                        <li><a  href="form_component.html">Form Components</a></li>
+                        <li><a  href="basic_table.html">Basic Table</a></li>
+                        <li><a  href="responsive_table.html">Responsive Table</a></li>-->
 					</ul>
 				</li>
 			</ul>

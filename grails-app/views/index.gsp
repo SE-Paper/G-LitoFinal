@@ -36,9 +36,9 @@
 <section id="home" class="pfblock-image screen-height">
 	<div class="home-overlay"></div>
 	<div class="intro">
-		<div class="start">Hola Tod@s.</div>
+		<!--<div class="start">Hola Tod@s.</div>-->
 		<h1 >¡BIENVENIDOS!</h1>
-		<div class="start">Clic abajo.</div>
+		<div class="start">Click abajo.</div>
 	</div>
 
 	<a href="#header-area-home">
@@ -64,12 +64,12 @@
 							<span class="sr-only">Toggle navigation</span>
 							<i class="tn-menu"></i>
 						</button>
-                        <!--<a class="navbar-brand" href="#"><img src="images/logos/groovylito_name.png" width="100" heigth="250"/></a>-->
+
 					</div>
 
 					<div class="collapse navbar-collapse" id="main-menu">
 						<ul class="nav navbar-nav">
-                            <li><a href="#"><img src="images/logos/groovylito_name.png" width="100" heigth="250"/></a></li>
+                            <li><a href="#"><img src="images/logos/groovylito_name.png" class="img-responsive" width="100" heigth="250"/></a></li>
 							<li class="active "><a href="#header-area-home">Inicio</a></li>
 							<li><a href="#why-us">Acerca de GroovyLito</a></li>
 							<li><a href="#out-team">Desarrolladores</a></li>

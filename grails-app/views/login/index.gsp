@@ -46,9 +46,9 @@
 				<button class="btn btn-theme btn-block" href="#" type="submit"> GroovyLiarte</button>
 				<hr>
 				<div class="registration">
-					No tiene un cuentaa de GroovyLito aún?<br/>
-					<a class="" href="#">
-						GroovyLiate Ya! creando tu cuenta.
+					No tienes un cuenta GroovyLito aún?<br/>
+					<a class="" href="${request.contextPath}/regular/create">
+						A GroovyLiarte Ya! creando tu cuenta.
 					</a>
 				</div>
 			</div>
@@ -63,7 +63,6 @@
 						<div class="modal-body">
 							<p>Ingresa su e-mail para la recuperacion de clave.</p>
 							<input type="text" name="email" placeholder="Email" autocomplete="off" class="form-control placeholder-no-fix">
-
 						</div>
 						<div class="modal-footer">
 							<button data-dismiss="modal" class="btn btn-default" type="button">Cancelar</button>
@@ -73,13 +72,11 @@
 				</div>
 			</div>
 			<!-- modal -->
-
 		</form>
-
 	</div>
 </div>
-
 <!-- js placed at the end of the document so the pages load faster -->
+
 <script src="${request.contextPath}/perfil/js/jquery.js"></script>
 <script src="${request.contextPath}/perfil/js/bootstrap.min.js"></script>
 

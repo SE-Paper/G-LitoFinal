@@ -1,4 +1,4 @@
-<%@ page import="groovylito.foro.Forum" %>
+<%@ page import="groovylito.user.Forum" %>
 <!DOCTYPE html>
 <html>
 	<head>

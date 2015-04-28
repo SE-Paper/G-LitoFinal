@@ -1,82 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8870d464-b1fa-4f80-a7f2-6dad2af693cf" name="Default" comment="-Commit Version -29 Correccion de conflictos  responsive  del area de Perfil de Usuario.Se Implemeta Vista de loggeo.">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/login/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/images/login/user.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/login/auth.gsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web-app/css/login.css" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\grails-app\controllers\groovylito\user\LoginController.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\grails-app\domain\groovylito\user\Login.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\grails-app\domain\groovylito\user\Signup.groovy" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\TomcatGrailsPlugin.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\InlineExplodedTomcatServer$_preStart_closure1$_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\InlineExplodedTomcatServer$_preStart_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\InlineExplodedTomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\ParentDelegatingClassLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatKillSwitch.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatLoader.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatServer$_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\TomcatServerFactory.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_addEventHookToBinding_closure5.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createEventListener_closure2.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createEventListener_closure3.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createEventListener_closure4.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_createExecutionContext_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_findSystemClasspathJars_closure7.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_findSystemClasspathJars_closure8.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_startSecure_closure6$_closure9.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer$_startSecure_closure6.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\ForkedTomcatServer.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatDevelopmentRunner.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatExecutionContext$_buildMinimalIsolatedClasspath_closure1.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatExecutionContext.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\target\work\plugin-classes\org\grails\plugins\tomcat\fork\TomcatWarRunner.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator$1.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetMethodTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/asset/pipeline/grails/AssetsTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/star/Bienvenidos.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/star/Bienvenidos.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/star/BienvenidosController.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/star/BienvenidosController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1$_closure5.class" afterPath="$PROJECT_DIR$/target/classes/BuildConfig$_run_closure1$_closure5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/CacheTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/util/ClassUtils.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/util/ClassUtils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Config.class" afterPath="$PROJECT_DIR$/target/classes/Config.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/databasemigration/DbdocController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/EmpyController.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/EmpyController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/foro/Forum.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/foro/Forum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/foro/ForumController.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/foro/ForumController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$2.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$3.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/GenericResponseWrapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryResourceTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/JQueryTagLib.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/user/Login.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/user/Login.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel1.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel1Controller.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel1Controller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel2.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel2Controller.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel2Controller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel3.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel3Controller.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel3Controller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel4.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel4Controller.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/niveles/Nivel4Controller.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$2.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter.class" afterPath="$PROJECT_DIR$/target/work/plugin-classes/grails/plugin/cache/web/filter/PageFragmentCachingFilter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/Perfil.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/Perfil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/PerfilController.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/PerfilController.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/groovylito/user/Signup.class" afterPath="$PROJECT_DIR$/target/classes/groovylito/user/Signup.class" />
+    <list default="true" id="8870d464-b1fa-4f80-a7f2-6dad2af693cf" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Admin$__clinit__closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Admin$__clinit__closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Admin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__delete_closure11$_closure18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__delete_closure11$_closure19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__delete_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__save_closure9$_closure14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__save_closure9$_closure15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__save_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__update_closure10$_closure16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__update_closure10$_closure17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$__tt__update_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_create_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_delete_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_edit_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_index_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_notFound_closure8$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_notFound_closure8$_closure13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_notFound_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_save_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_show_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController$_update_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/AdminController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/AdminControllerSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/AdminSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/File$__clinit__closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/File$__clinit__closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/File.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__delete_closure11$_closure18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__delete_closure11$_closure19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__delete_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__save_closure9$_closure14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__save_closure9$_closure15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__save_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__update_closure10$_closure16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__update_closure10$_closure17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$__tt__update_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_create_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_delete_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_edit_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_index_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_notFound_closure8$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_notFound_closure8$_closure13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_notFound_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_save_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_show_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController$_update_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/FileController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/FileControllerSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/FileSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Forum$__clinit__closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Forum$__clinit__closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Forum.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1$__clinit__closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__delete_closure11$_closure18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__delete_closure11$_closure19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__delete_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__save_closure9$_closure14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__save_closure9$_closure15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__save_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__update_closure10$_closure16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__update_closure10$_closure17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$__tt__update_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_create_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_delete_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_edit_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_index_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_notFound_closure8$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_notFound_closure8$_closure13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_notFound_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_save_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_show_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller$_update_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum1Controller.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/foro/Forum1ControllerSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/ForumSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Post$__clinit__closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Post$__clinit__closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Post.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__delete_closure11$_closure18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__delete_closure11$_closure19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__delete_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__save_closure9$_closure14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__save_closure9$_closure15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__save_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__update_closure10$_closure16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__update_closure10$_closure17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$__tt__update_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_create_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_delete_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_edit_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_index_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_notFound_closure8$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_notFound_closure8$_closure13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_notFound_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_save_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_show_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController$_update_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/PostController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/PostControllerSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/PostSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Regular$__clinit__closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Regular$__clinit__closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/Regular.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__delete_closure11$_closure18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__delete_closure11$_closure19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__delete_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__save_closure9$_closure14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__save_closure9$_closure15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__save_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__update_closure10$_closure16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__update_closure10$_closure17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$__tt__update_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_create_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_delete_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_edit_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_index_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_notFound_closure8$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_notFound_closure8$_closure13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_notFound_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_save_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_show_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController$_update_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/RegularController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/RegularControllerSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/RegularSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/User$__clinit__closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/User$__clinit__closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__delete_closure11$_closure18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__delete_closure11$_closure19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__delete_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__save_closure9$_closure14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__save_closure9$_closure15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__save_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__update_closure10$_closure16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__update_closure10$_closure17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$__tt__update_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_create_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_delete_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_edit_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_index_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_notFound_closure8$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_notFound_closure8$_closure13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_notFound_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_save_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_show_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController$_update_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/user/UserController.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/UserControllerSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/UserSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devDb.h2.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/Admin.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/user/AdminController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/AdminControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/AdminSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/File.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/user/FileController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/FileControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/FileSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/Forum.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/foro/Forum1.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/foro/Forum1Controller.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/foro/Forum1ControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/ForumSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/Login.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/user/LoginController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/layouts/ModelProfile.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/Post.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/user/PostController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/PostControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/PostSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/Regular.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/user/RegularController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/RegularControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/RegularSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/Signup.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/domain/groovylito/user/User.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/user/UserController.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/UserControllerSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/unit/groovylito/user/UserSpec.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/admin/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/file/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/forum1/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/post/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/regular/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/user/_form.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/admin/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/file/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/forum1/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/post/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/regular/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/user/create.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devDb.lock.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/devDb.trace.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/admin/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/file/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/forum1/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/post/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/regular/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/user/edit.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/admin/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/file/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/forum1/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/post/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/regular/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/user/index.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/admin/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/file/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/forum1/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/post/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/regular/show.gsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/grails-app/views/user/show.gsp" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/domain/groovylito/foro/Forum.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/domain/groovylito/security/Role.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/domain/groovylito/security/User.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/domain/groovylito/security/UserRole.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grails-app/views/login/auth.gsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum$__clinit__closure1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/Forum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/unit/groovylito/security/LoginControllerSpec.groovy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/login/bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/login/user.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web-app/images/user.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__delete_closure11$_closure18.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__delete_closure11$_closure18.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__delete_closure11.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__delete_closure11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__save_closure9$_closure14.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__save_closure9$_closure14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__save_closure9$_closure15.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__save_closure9$_closure15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__save_closure9.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__save_closure9.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__update_closure10$_closure16.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__update_closure10$_closure16.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__update_closure10$_closure17.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__update_closure10$_closure17.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__update_closure10.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$__tt__update_closure10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_delete_closure7.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_delete_closure7.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_edit_closure5.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_edit_closure5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_save_closure4.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_save_closure4.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_show_closure2.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_show_closure2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_update_closure6.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController$_update_closure6.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController.class" afterPath="$PROJECT_DIR$/out/production/G-Lito/groovylito/foro/ForumController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/LoginControllerSpec.class" afterPath="$PROJECT_DIR$/out/test/G-Lito/groovylito/user/LoginControllerSpec.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/gritter-light.png" afterPath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/gritter-light.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/gritter-long.png" afterPath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/gritter-long.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/gritter.png" afterPath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/gritter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/ie-spacer.gif" afterPath="$PROJECT_DIR$/web-app/perfil/js/gritter/images/ie-spacer.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.eot" afterPath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.ttf" afterPath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.woff" afterPath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/img/zoom.png" afterPath="$PROJECT_DIR$/web-app/perfil/img/zoom.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/Config.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/Config.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/controllers/groovylito/foro/ForumController.groovy" afterPath="$PROJECT_DIR$/grails-app/controllers/groovylito/foro/ForumController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/G-Lito-grailsPlugins.iml" afterPath="$PROJECT_DIR$/G-Lito-grailsPlugins.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/G-Lito.iml" afterPath="$PROJECT_DIR$/G-Lito.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/forum/_form.gsp" afterPath="$PROJECT_DIR$/grails-app/views/forum/_form.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/css/bootstrap.css" afterPath="$PROJECT_DIR$/web-app/perfil/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/web-app/perfil/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/forum/edit.gsp" afterPath="$PROJECT_DIR$/grails-app/views/forum/edit.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/web-app/perfil/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grailsw.bat" afterPath="$PROJECT_DIR$/grailsw.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/bienvenidos/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/bienvenidos/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/forum/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/forum/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/login/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/nivel1/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/nivel1/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/nivel2/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/nivel2/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/nivel3/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/nivel3/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/nivel4/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/nivel4/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/perfil/index.gsp" afterPath="$PROJECT_DIR$/grails-app/views/perfil/index.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/lineicons/index.html" afterPath="$PROJECT_DIR$/web-app/perfil/lineicons/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/js/gritter/css/jquery.gritter.css" afterPath="$PROJECT_DIR$/web-app/perfil/js/gritter/css/jquery.gritter.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.svg" afterPath="$PROJECT_DIR$/web-app/perfil/lineicons/fonts/linecons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/lineicons/lte-ie7.js" afterPath="$PROJECT_DIR$/web-app/perfil/lineicons/lte-ie7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" afterPath="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/stacktrace.log" afterPath="$PROJECT_DIR$/target/stacktrace.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/web.xml.tmp" afterPath="$PROJECT_DIR$/target/work/web.xml.tmp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/work/resources/web.xml" afterPath="$PROJECT_DIR$/target/work/resources/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/views/forum/show.gsp" afterPath="$PROJECT_DIR$/grails-app/views/forum/show.gsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-app/perfil/lineicons/style.css" afterPath="$PROJECT_DIR$/web-app/perfil/lineicons/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="G-Lito.iws" />
@@ -101,75 +310,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LoginController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy">
+      <file leaf-file-name="create.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/regular/create.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="19.173914">
-              <caret line="78" column="19" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="19" />
+            <state vertical-scroll-proportion="-6.7916665">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
-                <element signature="e#29#58#0" expanded="true" />
+                <marker date="1430262642678" expanded="true" signature="432:502" placeholder="..." />
+                <marker date="1430262642678" expanded="true" signature="544:825" placeholder="..." />
+                <marker date="1430262642678" expanded="true" signature="622:799" placeholder="..." />
+                <marker date="1430262642678" expanded="true" signature="884:1141" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.gsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/views/login/auth.gsp">
+      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.0">
-              <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.75">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="38" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Config.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <file leaf-file-name="main.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+            <state vertical-scroll-proportion="-10.833333">
+              <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BootStrap.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
+      <file leaf-file-name="ModelProfile.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/ModelProfile.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-app/css/login.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.896552">
-              <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
+            <state vertical-scroll-proportion="-6.4583335">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="auth.gsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/target/work/plugins/spring-security-core-2.0-RC4/grails-app/views/login/auth.gsp">
+      <file leaf-file-name="index.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/regular/index.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="5.0845923">
-              <caret line="99" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+            <state vertical-scroll-proportion="-5.0">
+              <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginController.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/target/work/plugins/spring-security-core-2.0-RC4/grails-app/controllers/grails/plugin/springsecurity/LoginController.groovy">
+      <file leaf-file-name="show.gsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/regular/show.gsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.478261">
-              <caret line="147" column="0" selection-start-line="29" selection-start-column="23" selection-end-line="147" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.2949438">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_form.gsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/regular/_form.gsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.4583333">
+              <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -219,19 +429,23 @@
         <option value="$PROJECT_DIR$/web-app/perfil/css/style3.css" />
         <option value="$PROJECT_DIR$/web-app/perfil/css/style4.css" />
         <option value="$PROJECT_DIR$/grails-app/views/perfil/index.gsp" />
-        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
-        <option value="$PROJECT_DIR$/web-app/perfil/css/style_perfil.css" />
-        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/nivel1/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/nivel2/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/nivel3/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/nivel4/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/forum/index.gsp" />
+        <option value="$PROJECT_DIR$/web-app/perfil/css/style_perfil.css" />
+        <option value="$PROJECT_DIR$/grails-app/views/index.gsp" />
         <option value="$PROJECT_DIR$/grails-app/views/bienvenidos/index.gsp" />
-        <option value="$PROJECT_DIR$/web-app/css/login.css" />
-        <option value="$PROJECT_DIR$/grails-app/conf/BootStrap.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/views/login/auth.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/ModelUser.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/admin/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/ModelProfile.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/regular/_form.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/layouts/main.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/login/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/regular/create.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/regular/index.gsp" />
+        <option value="$PROJECT_DIR$/grails-app/views/regular/show.gsp" />
       </list>
     </option>
   </component>
@@ -254,10 +468,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1376" />
-    <option name="height" value="744" />
+    <option name="x" value="-1" />
+    <option name="width" value="1368" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -284,7 +497,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -307,10 +519,109 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="regular" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nivel1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="G-Lito" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,14 +633,10 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="dynamic.classpath" value="false" />
-    <property name="restartRequiresConfirmation" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\web-app\images\login" />
-      <recent name="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito\grails-app\views\login" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/grails-app/views/forum" />
     </key>
@@ -423,6 +730,26 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -529,8 +856,60 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <profiling log-folder="C:\Users\Casa\IdeaProjects\Nueva carpeta\G-Lito" />
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -584,6 +963,116 @@
       <envs />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="G-Lito" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
     <configuration default="false" name="Grails:G-Lito" type="GrailsRunConfigurationType" factoryName="Grails">
       <module name="G-Lito" />
       <setting name="vmparams" value="" />
@@ -620,8 +1109,11 @@
       <workItem from="1430003355492" duration="403000" />
       <workItem from="1430004327795" duration="1269000" />
       <workItem from="1430005660369" duration="7013000" />
-      <workItem from="1430019207658" duration="8017000" />
-      <workItem from="1430028536115" duration="4485000" />
+      <workItem from="1430019207658" duration="8389000" />
+      <workItem from="1430058016265" duration="2708000" />
+      <workItem from="1430248575670" duration="120000" />
+      <workItem from="1430249240151" duration="2888000" />
+      <workItem from="1430256960008" duration="5563000" />
     </task>
     <task id="LOCAL-00001" summary="-Commit Version -30 Se adiciona area de Bienvenida a la app. Se anexa un Scroll Up en la Pagina Inicial.">
       <created>1429861640339</created>
@@ -629,11 +1121,17 @@
       <option name="project" value="LOCAL" />
       <updated>1429861640339</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="-Commit Version -29 Correccion de conflictos  responsive  del area de Perfil de Usuario.Se Implemeta Vista de loggeo.">
+      <created>1430027413876</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1430027413876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50260000" />
+    <option name="totallyTimeSpent" value="57426000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -645,90 +1143,49 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <frame x="-1" y="0" width="1368" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5167173" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30497593" sideWeight="0.55151516" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32300162" sideWeight="0.4939394" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902735" sideWeight="0.48418492" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.4832827" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.4969605" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28711256" sideWeight="0.46666667" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32789558" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22311397" sideWeight="0.4969697" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30497593" sideWeight="0.44848484" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31363636" sideWeight="0.51291513" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20212767" sideWeight="0.48708487" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20227273" sideWeight="0.48708487" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902735" sideWeight="0.5158151" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31363636" sideWeight="0.51291513" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32423756" sideWeight="0.4939394" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.70947033" sideWeight="0.4719697" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2680578" sideWeight="0.4689394" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.4969697" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Tool Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26484752" sideWeight="0.5280303" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32300162" sideWeight="0.4939394" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32902735" sideWeight="0.48418492" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32952693" sideWeight="0.4969605" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.70947033" sideWeight="0.4719697" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28711256" sideWeight="0.46666667" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32952693" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
-      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31363636" sideWeight="0.51291513" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20212767" sideWeight="0.48708487" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32902735" sideWeight="0.5158151" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.4969697" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -747,71 +1204,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="-Commit Version -29 Correccion de conflictos  responsive  del area de Perfil de Usuario.Se Implemeta Vista de loggeo." />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/user/LoginController.groovy</url>
-          <line>13</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>29</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>41</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>58</line>
-          <properties />
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>66</line>
-          <properties />
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>77</line>
-          <properties />
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>88</line>
-          <properties />
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>128</line>
-          <properties />
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy</url>
-          <line>121</line>
-          <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="12" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -819,43 +1212,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web-app/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="44" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/error.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.125">
-          <caret line="13" column="65" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/images/logos/groovylito_birrete.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/images/logos/groovylito_name.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/images/logos/star.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/forum/create.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/spring/resources.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -869,26 +1226,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/work/plugins/hibernate4-4.3.8.1/src/java/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/work/resources/hibernate.cfg.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -912,20 +1260,6 @@
     <entry file="file://$PROJECT_DIR$/web-app/images/logos/groovylito.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/perfil/css/style_perfil.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5">
-          <caret line="235" column="1" selection-start-line="235" selection-start-column="1" selection-end-line="235" selection-end-column="1" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-app/perfil/img/profile-02.jpg">
@@ -985,20 +1319,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/nivel1/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39370078">
-          <caret line="299" column="0" selection-start-line="299" selection-start-column="0" selection-end-line="299" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/perfil/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28610355">
-          <caret line="107" column="12" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/forum/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24523161">
@@ -1008,9 +1328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/nivel4/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.58768654">
+        <state vertical-scroll-proportion="-3.875">
           <caret line="325" column="2" selection-start-line="325" selection-start-column="2" selection-end-line="325" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1018,7 +1337,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1026,7 +1344,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1034,7 +1351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1042,7 +1358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,15 +1365,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="53" column="9" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/create.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,7 +1372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1074,7 +1379,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1086,86 +1390,183 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/target/work/plugins/spring-security-core-2.0-RC4/grails-app/controllers/grails/plugin/springsecurity/LoginController.groovy">
+    <entry file="file://$PROJECT_DIR$/web-app/perfil/css/style_perfil.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.478261">
-          <caret line="147" column="0" selection-start-line="29" selection-start-column="23" selection-end-line="147" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0408163">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/bienvenidos/create.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.32653">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/views/bienvenidos/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.122449">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="55" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="94" column="34" selection-start-line="94" selection-start-column="34" selection-end-line="94" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/Config.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/forum1/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="83" column="36" selection-start-line="83" selection-start-column="36" selection-end-line="83" selection-end-column="36" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/nivel1/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="199" column="20" selection-start-line="199" selection-start-column="20" selection-end-line="199" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/controllers/groovylito/security/LoginController.groovy">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/perfil/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="19.173914">
-          <caret line="78" column="19" selection-start-line="78" selection-start-column="15" selection-end-line="78" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="13" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Security/grails-2.5.0/dist/grails-web-gsp-taglib-2.5.0-sources.jar!/org/codehaus/groovy/grails/plugins/web/taglib/RenderTagLib.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="332" column="12" selection-start-line="332" selection-start-column="12" selection-end-line="332" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/groovylito/user/AdminController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.25">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/groovylito/user/Admin.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.2777778">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/login/create.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3125">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/admin/create.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.3125">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/admin/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/admin/show.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/regular/edit.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/admin/edit.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/regular/_form.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4583333">
+          <caret line="86" column="5" selection-start-line="86" selection-start-column="5" selection-end-line="86" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/ModelProfile.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.4583335">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/layouts/main.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.833333">
+          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/login/index.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/regular/create.gsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.7916665">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
-            <element signature="e#29#58#0" expanded="true" />
+            <marker date="1430262642678" expanded="true" signature="432:502" placeholder="..." />
+            <marker date="1430262642678" expanded="true" signature="544:825" placeholder="..." />
+            <marker date="1430262642678" expanded="true" signature="622:799" placeholder="..." />
+            <marker date="1430262642678" expanded="true" signature="884:1141" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/views/login/auth.gsp">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/regular/index.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web-app/css/login.css">
+    <entry file="file://$PROJECT_DIR$/grails-app/views/regular/show.gsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.896552">
-          <caret line="49" column="41" selection-start-line="49" selection-start-column="41" selection-end-line="49" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/BootStrap.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/work/plugins/spring-security-core-2.0-RC4/grails-app/views/login/auth.gsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="5.0845923">
-          <caret line="99" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.2949438">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -1177,14 +1578,14 @@
         <entry key="G-Lito">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-453012521" />
+              <option name="buildConfigCrc" value="-166523799" />
               <option name="pluginDependenciesCrc" value="-747976210" />
               <option name="properties">
                 <map>
-                  <entry key="grails.global.plugins.dir" value="C:\Users\Casa\.grails\2.5.0\global-plugins" />
-                  <entry key="grails.project.plugins.dir" value="target\work\plugins" />
-                  <entry key="grails.project.work.dir" value="target\work" />
-                  <entry key="grails.work.dir" value="C:\Users\Casa\.grails\2.5.0" />
+                  <entry key="grails.global.plugins.dir" value="$USER_HOME$/.grails/2.5.0/global-plugins" />
+                  <entry key="grails.project.plugins.dir" value="target/work/plugins" />
+                  <entry key="grails.project.work.dir" value="target/work" />
+                  <entry key="grails.work.dir" value="$USER_HOME$/.grails/2.5.0" />
                 </map>
               </option>
             </GrailsSettings>

@@ -26,7 +26,7 @@
 							<span class="sr-only">Toggle navigation</span>
 							<i class="tn-menu"></i>
 						</button>
-						<!--<a class="navbar-brand" href="#"><img src="images/logos/groovylito_name.png" width="100" heigth="250"/></a>-->
+						%{--<a class="navbar-brand" href="#"><img src="${request.contextPath}/images/logos/groovylito_name.png" width="100" heigth="250"/></a>--}%
 					</div>
 
 					<div class="collapse navbar-collapse" id="main-menu">
