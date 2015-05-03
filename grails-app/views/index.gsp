@@ -38,7 +38,7 @@
 	<div class="intro">
 		<!--<div class="start">Hola Tod@s.</div>-->
 		<h1 >¡BIENVENIDOS!</h1>
-		<div class="start">Click abajo.</div>
+		<div class="start">Ingresa al mundo de Groovylito dando clic abajo!</div>
 	</div>
 
 	<a href="#header-area-home">
@@ -76,7 +76,7 @@
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->
 							<!--<li><a href="#pricing">Planes</a></li>-->
 							<li><a href="#curious">Contacto</a></li>
-							<li><a href="login/index">GroovyLiarte</a></li>
+							<li><a href="login/index">Ingresa para GroovyLiarte</a></li>
 
 						</ul>
 

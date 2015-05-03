@@ -1,38 +1,30 @@
 <%@ page import="groovylito.user.Regular" %>
 
 <div class="fieldcontain ${hasErrors(bean: regularInstance, field: 'name', 'error')} required">
-	<label for="name">
-		<g:message code="regular.name.label" default="Name" />
+	<label for="name" class="form">
+		<g:message code="regular.name.label" default="Nombre" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:textField name="name" maxlength="50" required="" value="${regularInstance?.name}"/>
+    <input type="text" class="form-control" <g:textField name="name" maxlength="50" required="" value="${regularInstance?.name}"/>
+
 
 </div>
 
 <div class="fieldcontain ${hasErrors(bean: regularInstance, field: 'lastName', 'error')} required">
 	<label for="lastName">
-		<g:message code="regular.lastName.label" default="Last Name" />
+		<g:message code="regular.lastName.label" default="Apellido" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:textField name="lastName" maxlength="50" required="" value="${regularInstance?.lastName}"/>
+    <input type="text" class="form-control" <g:textField name="lastName" maxlength="50" required="" value="${regularInstance?.lastName}"/>
 
 </div>
 
 <div class="fieldcontain ${hasErrors(bean: regularInstance, field: 'age', 'error')} required">
 	<label for="age">
-		<g:message code="regular.age.label" default="Age" />
+		<g:message code="regular.age.label" default="Edad" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:field name="age" type="number" min="13" value="${regularInstance.age}" required=""/>
-
-</div>
-
-<div class="fieldcontain ${hasErrors(bean: regularInstance, field: 'password', 'error')} required">
-	<label for="password">
-		<g:message code="regular.password.label" default="Password" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:field type="password" name="password" pattern="${regularInstance.constraints.password.matches}" required="" value="${regularInstance?.password}"/>
+    <input class="form-control" <g:field name="age" type="number" min="13" value="${regularInstance.age}" required=""/>
 
 </div>
 
@@ -41,7 +33,18 @@
 		<g:message code="regular.username.label" default="Username" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:textField name="username" required="" value="${regularInstance?.username}"/>
+    <input type="text" class="form-control" <g:textField name="username" required="" value="${regularInstance?.username}"/>
+
+
+</div>
+
+
+<div class="fieldcontain ${hasErrors(bean: regularInstance, field: 'password', 'error')} required">
+    <label for="password">
+        <g:message code="regular.password.label" default="Password" />
+        <span class="required-indicator">*</span>
+    </label>
+    <input class="form-control" <g:field type="password" name="password" pattern="${regularInstance.constraints.password.matches}" required="" value="${regularInstance?.password}"/>
 
 </div>
 
@@ -50,7 +53,7 @@
 		<g:message code="regular.postViews.label" default="Post Views" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:field name="postViews" type="number" min="0" value="${regularInstance.postViews}" required=""/>
+    <input  class="form-control" <g:field name="postViews" type="number" min="0" value="${regularInstance.postViews}" required=""/>
 
 </div>
 
