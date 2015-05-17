@@ -1,5 +1,6 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,13 +11,13 @@
 	<title>GroovyLero</title>
 
 	<!-- Bootstrap core CSS -->
-	<link href="${request.contextPath}/perfil/css/bootstrap.css" rel="stylesheet">
+	<link rel="stylesheet" href="${resource(dir:'perfil/css',file: 'bootstrap.css')}">
 	<!--external css-->
-	<link href="${request.contextPath}/perfil/font-awesome/css/font-awesome.css" rel="stylesheet" />
+	<link rel="stylesheet" href="${resource(dir:'perfil/font-awesome/css',file: 'font-awesome.css')}">
 
 	<!-- Custom styles for this template -->
-	<link href="${request.contextPath}/perfil/css/style_perfil.css" rel="stylesheet">
-	<link href="${request.contextPath}/perfil/css/style-responsive.css" rel="stylesheet">
+	<link rel="stylesheet" href="${resource(dir:'perfil/css',file: 'style_perfil.css')}">
+	<link rel="stylesheet" href="${resource(dir:'perfil/css',file: 'style-responsive.css')}">
 
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!--[if lt IE 9]>
@@ -32,22 +33,29 @@
        -->
 <div id="login-page">
 	<div class="container">
-		<form class="form-login" action="${request.contextPath}/perfil/index">
+		<form action='${postUrl}' class="form-login" method='POST' id='loginForm' autocomplete='off'>
 			<h2 class="form-login-heading">Ingresa tus datos Groovylero</h2>
 			<div class="login-wrap">
-				<input type="text" class="form-control" placeholder="Usuario" autofocus>
+				<g:if test='${flash.message}'>
+					<p class='login_message'>${flash.message}</p>
+				</g:if>
+				<input type="text" class="form-control" placeholder="Usuario" name='j_username' id='username' autofocus/>
 				<br>
-				<input type="password" class="form-control" placeholder="Contraseña">
+				<input type="password" class="form-control" placeholder="Contraseña" name='j_password' id='password'/>
 				<label class="checkbox">
+					<span class="pull-left">
+						<input type='checkbox' class='checkbox' name='${rememberMeParameter}' id='remember_me' <g:if test='${hasCookie}'>checked='checked'</g:if> style="margin-left:0px; margin: 0px 0 0;"/>
+						<label for='remember_me'><g:message code="springSecurity.login.remember.me.label"/></label>
+					</span>
 					<span class="pull-right">
 						<a data-toggle="modal" href="index#myModal"> Olvidaste tu  clave?</a>
 					</span>
 				</label>
-				<button class="btn btn-theme btn-block" href="#" type="submit"> Ingresar</button>
+				<button class="btn btn-theme btn-block" href="#" type="submit">Ingresar</button>
 				<hr>
 				<div class="registration">
 					No tienes un cuenta GroovyLito aún?<br/>
-					<a class="" href="${request.contextPath}/regular/create">
+						<a class="" href="${request.contextPath}/regular/create">
 						A GroovyLiarte Ya!
 					</a>
 				</div>
@@ -77,14 +85,14 @@
 </div>
 <!-- js placed at the end of the document so the pages load faster -->
 
-<script src="${request.contextPath}/perfil/js/jquery.js"></script>
-<script src="${request.contextPath}/perfil/js/bootstrap.min.js"></script>
+<script src="${resource(dir:'perfil/js',file:'jquery.js')}"></script>
+<script src="${resource(dir:'perfil/js',file:'bootstrap.min.js')}"></script>
 
 <!--BACKSTRETCH-->
 <!-- You can use an image of whatever size. This script will stretch to fit in any screen size.-->
-<script type="text/javascript" src="${request.contextPath}/perfil/js/jquery.backstretch.min.js"></script>
+<script src="${resource(dir:'perfil/js',file:'jquery.backstretch.min.js')}"></script>
 <script>
-	$.backstretch("${request.contextPath}/perfil/img/login.png", {speed: 1000});
+	$.backstretch("${resource(dir:'perfil/img',file:'login.png')}", {speed: 1000});
 </script>
 
 

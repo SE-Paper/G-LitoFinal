@@ -95,6 +95,26 @@ environments {
     }
 }
 
+grails.plugin.springsecurity.controllerAnnotations.staticRules = [
+        '/':               ['permitAll'],
+        '/index':          ['permitAll'],
+        '/index.gsp':      ['permitAll'],
+        '/assets/**':      ['permitAll'],
+        '/**/js/**':       ['permitAll'],
+        '/**/css/**':      ['permitAll'],
+        '/**/images/**':   ['permitAll'],
+        '/**/fonts/**':    ['permitAll'],
+        '/**/img/**':      ['permitAll'],
+        '/**/lineicons/**':['permitAll'],
+        '/**/icons/**':    ['permitAll'],
+        '/**/ie7/**':      ['permitAll'],
+        '/**/SVG/**':      ['permitAll'],
+        '/**/perfil/**':   ['permitAll'],
+        '/**/skins/**':    ['permitAll'],
+        '/**/welcome/**':  ['permitAll'],
+        '/**/favicon.ico': ['permitAll']
+]
+
 // log4j configuration
 log4j.main = {
     // Example of changing the log pattern for the default console appender:
