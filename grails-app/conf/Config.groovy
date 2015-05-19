@@ -95,6 +95,10 @@ environments {
     }
 }
 
+// Added by the Spring Security Core plugin:
+grails.plugin.springsecurity.userLookup.userDomainClassName = 'groovylito.user.User'
+grails.plugin.springsecurity.userLookup.authorityJoinClassName = 'groovylito.user.UserRole'
+grails.plugin.springsecurity.authority.className = 'groovylito.user.Role'
 grails.plugin.springsecurity.controllerAnnotations.staticRules = [
         '/':               ['permitAll'],
         '/index':          ['permitAll'],
@@ -135,3 +139,7 @@ log4j.main = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
+
+
+
+

@@ -1,9 +1,11 @@
 package groovylito.user
 
+import grails.plugin.springsecurity.annotation.Secured
 
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional
 
+@Secured('permitAll')
 @Transactional(readOnly = true)
 class UserController {
 
@@ -33,8 +35,20 @@ class UserController {
             respond userInstance.errors, view: 'create'
             return
         }
+        if (userInstance.validate()){
+            userInstance.save flush: true
+        }else{
+            respond userInstance.errors, view: 'create'
+            return
+        }
 
-        userInstance.save flush: true
+        // Guardamos el rol que posee este usuario
+        def roleUser = Role.findByAuthority('ROLE_USER')
+        if(!roleUser){
+            roleUser = new Role(authority: 'ROLE_USER').save(flush: true)
+        }
+        UserRole.create userInstance, roleUser, true
+
 
         request.withFormat {
             form multipartForm {

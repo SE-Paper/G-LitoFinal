@@ -1,13 +1,11 @@
 <%@ page import="groovylito.user.User" %>
 
-
-
-<div class="fieldcontain ${hasErrors(bean: userInstance, field: 'name', 'error')} required">
-	<label for="name">
-		<g:message code="user.name.label" default="Name" />
+<div class="fieldcontain ${hasErrors(bean: userInstance, field: 'firstName', 'error')} required">
+	<label for="firstName">
+		<g:message code="user.firstName.label" default="First Name" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:textField name="name" maxlength="50" required="" value="${userInstance?.name}"/>
+	<g:textField name="firstName" maxlength="50" required="" value="${userInstance?.firstName}"/>
 
 </div>
 
@@ -20,21 +18,12 @@
 
 </div>
 
-<div class="fieldcontain ${hasErrors(bean: userInstance, field: 'age', 'error')} required">
-	<label for="age">
-		<g:message code="user.age.label" default="Age" />
+<div class="fieldcontain ${hasErrors(bean: userInstance, field: 'email', 'error')} required">
+	<label for="email">
+		<g:message code="user.email.label" default="Email" />
 		<span class="required-indicator">*</span>
 	</label>
-	<g:field name="age" type="number" min="13" value="${userInstance.age}" required=""/>
-
-</div>
-
-<div class="fieldcontain ${hasErrors(bean: userInstance, field: 'password', 'error')} required">
-	<label for="password">
-		<g:message code="user.password.label" default="Password" />
-		<span class="required-indicator">*</span>
-	</label>
-	<g:field type="password" name="password" pattern="${userInstance.constraints.password.matches}" required="" value="${userInstance?.password}"/>
+	<g:field type="email" name="email" required="" value="${userInstance?.email}"/>
 
 </div>
 
@@ -44,6 +33,15 @@
 		<span class="required-indicator">*</span>
 	</label>
 	<g:textField name="username" required="" value="${userInstance?.username}"/>
+
+</div>
+
+<div class="fieldcontain ${hasErrors(bean: userInstance, field: 'password', 'error')} required">
+	<label for="password">
+		<g:message code="user.password.label" default="Password" />
+		<span class="required-indicator">*</span>
+	</label>
+	<g:field type="password" name="password" pattern="${userInstance.constraints.password.matches}" required="" value="${userInstance?.password}"/>
 
 </div>
 

@@ -7,7 +7,7 @@
   <type>SpringSecurityCoreGrailsPlugin</type>
   <resources>
     <resource>DefaultSecurityConfig</resource>
-    <resource>groovylito.user.LoginController</resource>
+    <resource>grails.plugin.springsecurity.LoginController</resource>
     <resource>grails.plugin.springsecurity.LogoutController</resource>
     <resource>grails.plugin.springsecurity.SpringSecurityService</resource>
     <resource>grails.plugin.springsecurity.SecurityTagLib</resource>

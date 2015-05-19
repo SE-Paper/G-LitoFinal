@@ -41,7 +41,7 @@
 		<!--Programar enlace a vista de salida de Usuario-->
 		<div class="top-menu">
 			<ul class="nav pull-right top-menu">
-				<li><a class="logout" href="#"> Salir </a></li>
+				<li><g:link class="logout" controller="logout" action="index">Salir</g:link></li>
 			</ul>
 		</div>
 	</header>
@@ -105,12 +105,12 @@
 						<span>Soportes</span>
 					</a>
 					<ul class="sub">
-                        <li> <a href="${request.contextPath}/admin/index">Administrador</a></li>
+						<!--<li> <a href="${request.contextPath}/admin/index">Administrador</a></li>
                         <li> <a href="${request.contextPath}/regular/index">Regular</a></li>
                         <li> <a href="${request.contextPath}/forum/index">Foro</a></li>
                         <li> <a href="${request.contextPath}/post/index">Post</a></li>
                         <li> <a href="${request.contextPath}/file/index">File</a></li>
-                        <!--
+
                         <li><a  href="buttons.html">Buttons</a></li>
                         <li><a  href="panels.html">Panels</a></li>
                         <li><a  href="morris.html">Morris</a></li>

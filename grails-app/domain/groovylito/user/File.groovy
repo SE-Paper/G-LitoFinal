@@ -5,10 +5,6 @@ class File {
     byte[] content
     Double size
 
-    Post post
-
-    static  belongsTo = [Post]
-
     static mapping = {
         post column: 'post_belongs_id'
     }

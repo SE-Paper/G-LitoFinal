@@ -76,7 +76,7 @@
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->
 							<!--<li><a href="#pricing">Planes</a></li>-->
 							<li><a href="#curious">Contacto</a></li>
-							<li><a href="login/index">Ingresa para GroovyLiarte</a></li>
+							<li><g:link controller="perfil" action="index">Ingresa para GroovyLiarte</g:link></li>
 
 						</ul>
 
