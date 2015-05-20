@@ -19,7 +19,7 @@ class User {
 	static constraints = {
 		firstName blank: false, minSize: 3, maxSize: 50
         lastName blank: false, minSize: 3, maxSize: 50
-        email blank:false, email:true
+        email blank:false, email:true, unique: true
         username blank: false, unique: true
         password blank: false, password: true,  minSize: 8,matches: "((?=.*[0-9])(?=.*[A-Z])(?=.*[a-z]).*\$)"
 	}

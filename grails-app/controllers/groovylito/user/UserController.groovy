@@ -24,6 +24,29 @@ class UserController {
         respond new User(params)
     }
 
+    def recoverPassword(){
+        def dir_email = params.email
+        def user = User.findWhere(email: dir_email)
+        def new_pass = ""
+        if(user!=null && user){
+            user.password = ""
+            while(!user.validate()){
+                new_pass = 'Acceso'+ (new Random()).nextInt()
+                user.password = new_pass
+            }
+            user.save(flush: true)
+        }else{
+            render view: '/login/denied'
+            return
+        }
+        sendMail {
+            to dir_email
+            subject "[Groovylito] Nueva clave de acceso."
+            body( view:"mail", model:[pass:new_pass])
+        }
+        redirect controller: 'perfil', action: 'index'
+    }
+
     @Transactional
     def save(User userInstance) {
         if (userInstance == null) {

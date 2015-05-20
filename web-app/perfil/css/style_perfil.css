@@ -1966,6 +1966,77 @@ label {
 	margin-bottom: 15px;
 }
 
+/*REGISTRY CONFIGURATION PAGE*/
+.form-reg {
+    max-width: 330px;
+    margin: 100px auto 0;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.form-reg h2.form-reg-heading {
+    margin: 0;
+    padding: 25px 20px;
+    text-align: center;
+    background: #41CAC0;
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+.reg-wrap {
+    padding: 5px;
+}
+.reg-wrap .registration {
+    text-align: center;
+}
+.reg-social-link {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+/*LIST PAGE*/
+.form-list {
+
+    margin: 100px auto 0;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.form-list h2.form-list-heading {
+    margin: 0;
+    padding: 25px 20px;
+    text-align: center;
+    background: #41CAC0;
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    color: #fff;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+.list-wrap {
+    padding: 5px;
+}
+.list-wrap .registration {
+    text-align: center;
+}
+.list-social-link {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
 
 /*LOCK SCREEN CONF*/
 #showtime {

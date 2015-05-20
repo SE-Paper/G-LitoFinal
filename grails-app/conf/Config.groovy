@@ -119,6 +119,20 @@ grails.plugin.springsecurity.controllerAnnotations.staticRules = [
         '/**/favicon.ico': ['permitAll']
 ]
 
+// mail configuration
+grails {
+    mail {
+        host = "smtp.gmail.com"
+        port = 465
+        username = "groovylitoinfo@gmail.com"
+        password = "elPolloGroovy"
+        props = ["mail.smtp.auth":"true",
+                "mail.smtp.socketFactory.port":"465",
+                "mail.smtp.socketFactory.class":"javax.net.ssl.SSLSocketFactory",
+                "mail.smtp.socketFactory.fallback":"false"]
+    }
+}
+
 // log4j configuration
 log4j.main = {
     // Example of changing the log pattern for the default console appender:
@@ -139,7 +153,3 @@ log4j.main = {
            'org.hibernate',
            'net.sf.ehcache.hibernate'
 }
-
-
-
-

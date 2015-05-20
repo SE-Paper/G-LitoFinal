@@ -57,7 +57,9 @@
 		<div id="sidebar"  class="nav-collapse ">
 			<ul class="sidebar-menu" id="nav-accordion">
 				<p class="centered"><a href="profile.html"><img src="${request.contextPath}/perfil/img/ui-sam.jpg" class="img-circle" width="60"></a></p>
-				<h5 class="centered">Usuario Loggeado</h5>
+				<h5 class="centered">
+					<span class="property-value" aria-labelledby="firstName-label">${springSecurityService}</span>
+				</h5>
 
 				<li class="mt">
 					<a class="active" href="${request.contextPath}/perfil/index">

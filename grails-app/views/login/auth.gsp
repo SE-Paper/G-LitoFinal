@@ -60,27 +60,32 @@
 					</a>
 				</div>
 			</div>
+		</form>
+
 			<!-- Modal -->
+		<g:form url="[controller: 'user', action: 'recoverPassword']">
 			<div aria-hidden="true" aria-labelledby="myModalLabel" role="dialog" tabindex="-1" id="myModal" class="modal fade">
 				<div class="modal-dialog">
-					<div class="modal-content">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-							<h4 class="modal-title">Forgot Password ?</h4>
+
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+								<h4 class="modal-title">Forgot Password ?</h4>
+							</div>
+							<div class="modal-body">
+								<p>Ingrese su e-mail para la recuperación de clave.</p>
+								<input type="email" name="email" placeholder="Email" autocomplete="off" class="form-control placeholder-no-fix">
+							</div>
+							<div class="modal-footer">
+								<button data-dismiss="modal" class="btn btn-default" type="button">Cancelar</button>
+								<button class="btn btn-theme" type="submit">Enviar</button>
+							</div>
 						</div>
-						<div class="modal-body">
-							<p>Ingresa su e-mail para la recuperacion de clave.</p>
-							<input type="text" name="email" placeholder="Email" autocomplete="off" class="form-control placeholder-no-fix">
-						</div>
-						<div class="modal-footer">
-							<button data-dismiss="modal" class="btn btn-default" type="button">Cancelar</button>
-							<button class="btn btn-theme" type="button">Enviar</button>
-						</div>
-					</div>
+
 				</div>
 			</div>
+		</g:form>
 			<!-- modal -->
-		</form>
 	</div>
 </div>
 <!-- js placed at the end of the document so the pages load faster -->
