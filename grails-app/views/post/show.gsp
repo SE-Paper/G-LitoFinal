@@ -1,5 +1,4 @@
 
-<%@ page import="groovylito.user.Post" %>
 <!DOCTYPE html>
 <html>
 	<head>

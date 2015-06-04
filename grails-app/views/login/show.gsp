@@ -1,5 +1,3 @@
-
-<%@ page import="groovylito.user.Login" %>
 <!DOCTYPE html>
 <html>
 	<head>
