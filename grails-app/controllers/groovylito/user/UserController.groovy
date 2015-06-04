@@ -86,6 +86,7 @@ class UserController {
         respond userInstance
     }
 
+
     @Transactional
     def update(User userInstance) {
         if (userInstance == null) {

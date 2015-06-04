@@ -43,10 +43,10 @@
 				<br>
 				<input type="password" class="form-control" placeholder="Contraseña" name='j_password' id='password'/>
 				<label class="checkbox">
-					<span class="pull-left">
+					<s6pan class="pull-left">
 						<input type='checkbox' class='checkbox' name='${rememberMeParameter}' id='remember_me' <g:if test='${hasCookie}'>checked='checked'</g:if> style="margin-left:0px; margin: 0px 0 0;"/>
 						<label for='remember_me'><g:message code="springSecurity.login.remember.me.label"/></label>
-					</span>
+					</s6pan>
 					<span class="pull-right">
 						<a data-toggle="modal" href="index#myModal"> Olvidaste tu  clave?</a>
 					</span>

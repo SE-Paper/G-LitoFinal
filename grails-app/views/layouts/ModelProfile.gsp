@@ -60,25 +60,29 @@
             <ul class="sidebar-menu" id="nav-accordion">
                 <p class="centered"><a href="profile.html"><img src="${request.contextPath}/perfil/img/ui-sam.jpg" class="img-circle" width="60"></a></p>
                 <h5 class="centered">
-                    <span id="firstName-label" class="property-label"><g:message code="user.firstName.label" default="First Name" /></span>
-
+                    <g:if test="${userInstance?.firstName}">
+                        <li class="fieldcontain">
+                            <span class="property-value" aria-labelledby="firstName-label"><g:fieldValue bean="${userInstance}" field="firstName"/></span>
+                        </li>
+                    </g:if>
+                    <g:if test="${userInstance?.lastName}">
+                        <li class="fieldcontain">
+                            <span class="property-value" aria-labelledby="lastName-label"><g:fieldValue bean="${userInstance}" field="lastName"/></span>
+                        </li>
+                    </g:if>
                 </h5>
-
                 <li class="mt">
                     <a class="active" href="${request.contextPath}/perfil/index">
                         <i class="fa fa-dashboard"></i>
                         <span>Introducción</span>
                     </a>
                 </li>
-
                 <li class="sub-menu">
                     <a href="${request.contextPath}/nivel1/index" >
                         <i class="fa fa-desktop"></i>
                         <span>Nivel 1</span>
                     </a>
-
                 </li>
-
                 <li class="sub-menu">
                     <a href="${request.contextPath}/nivel2/index" >
                         <i class="fa fa-desktop"></i>
@@ -158,14 +162,7 @@
       Pie de Pagina
       ****************************************************************
       -->
-    <footer class="site-footer">
-        <div class="text-center">
 
-            <a rel="license"  target="_blank" href="http://creativecommons.org/licenses/by/4.0/">
-                <img src="${request.contextPath}/images/logos/groovylito_name.png" width="100" heigth="250"/></a><br />Este sitio se basa bajo Licencia
-            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
-        </div>
-    </footer>
 </section>
 <!-- FIN DE PIE DE PAGINA-->
 <!-- js placed at the end of the document so the pages load faster -->
