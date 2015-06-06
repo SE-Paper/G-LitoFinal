@@ -1,3 +1,5 @@
+<%@ page import="groovylito.user.User" %>
+
 <!DOCTYPE html>
 <!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
@@ -11,6 +13,7 @@
     <meta name="author" content="Dashboard">
     <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
     <title>GroovyLito</title>
+
     <!-- Bootstrap core CSS -->
     <link href="${request.contextPath}/perfil/css/bootstrap.css" rel="stylesheet">
     <!--external css-->
@@ -22,6 +25,7 @@
     <link href="${request.contextPath}/perfil/css/style_perfil.css" rel="stylesheet">
     <link href="${request.contextPath}/perfil/css/style-responsive.css" rel="stylesheet">
     <script src="${request.contextPath}/perfil/js/chart-master/Chart.js"></script>
+
 </head>
 
 
@@ -58,25 +62,21 @@
     <aside>
         <div id="sidebar"  class="nav-collapse ">
             <ul class="sidebar-menu" id="nav-accordion">
-                <p class="centered"><a href="profile.html"><img src="${request.contextPath}/perfil/img/ui-sam.jpg" class="img-circle" width="60"></a></p>
-                <h5 class="centered">
-                    <g:if test="${userInstance?.firstName}">
-                        <li class="fieldcontain">
-                            <span class="property-value" aria-labelledby="firstName-label"><g:fieldValue bean="${userInstance}" field="firstName"/></span>
-                        </li>
-                    </g:if>
-                    <g:if test="${userInstance?.lastName}">
-                        <li class="fieldcontain">
-                            <span class="property-value" aria-labelledby="lastName-label"><g:fieldValue bean="${userInstance}" field="lastName"/></span>
-                        </li>
-                    </g:if>
-                </h5>
+
+                <p class="centered"><a href="profile.html"><img src="${request.contextPath}/perfil/img/images1.png" class="img-circle" width="60"></a></p>
+
+                <!--Inicia Datos de Usuario  -->
+
+
+                <!--Finaliza Datos de Usuario  -->
+
                 <li class="mt">
                     <a class="active" href="${request.contextPath}/perfil/index">
                         <i class="fa fa-dashboard"></i>
                         <span>Introducción</span>
                     </a>
                 </li>
+
                 <li class="sub-menu">
                     <a href="${request.contextPath}/nivel1/index" >
                         <i class="fa fa-desktop"></i>

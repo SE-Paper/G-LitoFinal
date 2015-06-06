@@ -1,10 +1,13 @@
 package groovylito.niveles
 
+import grails.plugin.springsecurity.annotation.Secured
 import groovylito.niveles.Nivel1
+import groovylito.user.Role
 
 import static org.springframework.http.HttpStatus.*
 import grails.transaction.Transactional
 
+@Secured('permitAll')
 @Transactional(readOnly = true)
 class Nivel1Controller {
 

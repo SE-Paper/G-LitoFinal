@@ -7,25 +7,20 @@
 		<g:set var="entityName" value="${message(code: 'user.label', default: 'User')}" />
 		<title><g:message code="default.show.label" args="[entityName]" /></title>
 	</head>
-
 	<body>
-
 		<div id="show-user" class="form-reg" role="main">
 			<h2 class="form-reg-heading"><g:message args="[entityName]" />Tus datos registrados</h2>
 			<g:if test="${flash.message}">
 			<div class="message" role="status">${flash.message}</div>
 			</g:if>
 			<ol class="property-list user">
-			
 				<g:if test="${userInstance?.firstName}">
 				<li class="fieldcontain">
 					<span id="firstName-label" class="property-label"><g:message code="user.firstName.label" default="First Name: " /></span>
 					
 						<span class="property-value" aria-labelledby="firstName-label"><g:fieldValue bean="${userInstance}" field="firstName"/></span>
-					
 				</li>
 				</g:if>
-			
 				<g:if test="${userInstance?.lastName}">
 				<li class="fieldcontain">
 					<span id="lastName-label" class="property-label"><g:message code="user.lastName.label" default="Last Name: " /></span>
