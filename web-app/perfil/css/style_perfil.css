@@ -1967,8 +1967,19 @@ label {
 }
 
 /*REGISTRY CONFIGURATION PAGE*/
+
+.reg_message {
+    background: rgba(255, 0, 0, 0.580392);
+    padding: 6px 12px;
+    color: #FFF;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 13px;
+    align-content: center;
+}
+
 .form-reg {
-    max-width: 330px;
+    max-width: 930px;
     margin: 100px auto 0;
     background: #fff;
     border-radius: 5px;

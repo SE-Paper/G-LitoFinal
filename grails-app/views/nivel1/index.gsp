@@ -9,6 +9,16 @@
 
 <section id="container" >
 
+    <form action='${postUrl}' class="form-reg">
+        <h2 class="form-reg-heading">Introducción</h2>
+        <div class="reg-wrap">
+            <h1> A continuación vamos a empezar a Groovilearte mostrando algunas de las características principales del lenguaje Groovy, comencemos.
+                <br><br>
+                <a href="..\nivel1_course\index"><img src="${request.contextPath}/images/sliders/slider-1.jpg" width="200" heigth="350"/></a>
+
+        </div>
+    </form>
+
 	<!--  Seccion 3
       ****************************************************************
       Video de Introduccion de Uso. O cual quier cosa que se le de Bienvenida Personalizada al Usuario
@@ -17,6 +27,7 @@
               |ESTA ES LA SECCION QUE CAMBIA DE ACUERDO A LA SECCION QUE DESEAMOS VER |
               |_______________________________________________________________________|
       -->
+    <!--
 	<section id="main-content">
 		<section class="wrapper">
 			<div class="row">
@@ -57,7 +68,7 @@
 							</div>
 							<p>Your server is working perfectly. Relax & enjoy.</p>
 						</div>
-					</div><!-- /row mt -->
+					</div>
 					<div class="row mt">
 						<div class="col-md-4 col-sm-4 mb">
 							<div class="white-panel pn donut-chart">
@@ -84,7 +95,7 @@
 									var myDoughnut = new Chart(document.getElementById("serverstatus01").getContext("2d")).Doughnut(doughnutData);
 								</script>
 							</div>
-						</div><!-- /col-md-4-->
+						</div>
 						<div class="col-md-4 col-sm-4 mb">
 							<div class="white-panel pn">
 								<div class="white-header">
@@ -119,10 +130,10 @@
 									</div>
 								</div>
 							</div>
-						</div><!-- /col-md-4 -->
-					</div><!-- /row -->
+						</div>
+					</div>
 					<div class="row">
-						<!-- TWITTER PANEL -->
+
 						<div class="col-md-4 mb">
 							<div class="darkblue-panel pn">
 								<div class="darkblue-header">
@@ -151,10 +162,10 @@
 										<h5>60% Used</h5>
 									</div>
 								</footer>
-							</div><! -- /darkblue panel -->
+							</div>
 						</div>
 						<div class="col-md-4 mb">
-							<!-- INSTAGRAM PANEL -->
+
 							<div class="instagram-panel pn">
 								<i class="fa fa-instagram fa-4x"></i>
 								<p>@THISISYOU<br/>
@@ -179,6 +190,7 @@
 			</div>
 		</section>
 	</section>
+    -->
 	<!--  FIN de Seccion de Video -->
 
 	<!--  Seccion 4

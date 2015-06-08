@@ -111,7 +111,7 @@
                 <li class="sub-menu">
                     <a href="javascript:;" >
                         <i class=" fa fa-bar-chart-o"></i>
-                        <span>Soportes</span>
+                        <span>Soporte</span>
                     </a>
                     <ul class="sub">
                         <!--<li> <a href="${request.contextPath}/admin/index">Administrador</a></li>
