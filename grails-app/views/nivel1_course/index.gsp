@@ -14,9 +14,10 @@
         <div class="reg-wrap">
             <h1> A continuación vamos a empezar a Groovilearte mostrando algunas de las características principales del lenguaje Groovy, comencemos.
                 <br><br>
-                <a href="#"><img src="${request.contextPath}/images/sliders/slider-1.jpg" width="200" heigth="350"/></a>
+                <a href="#page-1"><img src="${request.contextPath}/images/sliders/slider-1.jpg" width="200" heigth="350"/></a>
 
         </div>
+
     </form>
 
 	<!--  Seccion 3
@@ -198,6 +199,8 @@
       Pie de Pagina
       ****************************************************************
       -->
+    <h2 class="form-reg-heading">Primera lección</h2>
+
 </section>
 
 </body>
