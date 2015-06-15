@@ -76,8 +76,18 @@
 							<!--<li><a href="#client-reviews">Vista Previa</a></li>-->
 							<!--<li><a href="#pricing">Planes</a></li>-->
 							<li><a href="#curious">Contacto</a></li>
-							<li><g:link controller="perfil" action="index">Ingresa para GroovyLiarte</g:link></li>
+							<li><g:link controller="perfil" action="index">
+								<g:if test="${sec.loggedInUserInfo(field:"id")!=null}">
+									Bienvenido <sec:loggedInUserInfo field="username"/>
+								</g:if>
+								<g:else>
+									Ingresa para GroovyLiarte!
+								</g:else>
+								</g:link>
+							</li>
+							<li>
 
+							</li>
 						</ul>
 
 						<ul class="nav navbar-nav navbar-right">

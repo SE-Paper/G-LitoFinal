@@ -24,6 +24,12 @@ class UserController {
         respond new User(params)
     }
 
+    def getName(){
+        def id = params.id
+        def user = User.findWhere(id: id)
+        [user: user]
+    }
+
     def recoverPassword(){
         def dir_email = params.email
         def user = User.findWhere(email: dir_email)

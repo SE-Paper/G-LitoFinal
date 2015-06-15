@@ -43,7 +43,7 @@
             <div class="fa fa-bars tooltips" data-placement="right" data-original-title="Menu"></div>
         </div>
         <!--Cambiar Nombre por Imagen de logo-->
-        <a href="${request.contextPath}/bienvenidos/index.gsp" class="logo"><img src="${request.contextPath}/images/logos/groovylito_name.png" width="100" heigth="250"/></a>
+        <a href="${request.contextPath}/#header-area-home" class="logo"><img src="${request.contextPath}/images/logos/groovylito_name.png" width="100" heigth="250"/></a>
         <!--logo end-->
         <!--Programar enlace a vista de salida de Usuario-->
         <div class="top-menu">
