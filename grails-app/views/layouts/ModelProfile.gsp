@@ -25,11 +25,13 @@
     <link href="${request.contextPath}/perfil/css/style_perfil.css" rel="stylesheet">
     <link href="${request.contextPath}/perfil/css/style-responsive.css" rel="stylesheet">
     <script src="${request.contextPath}/perfil/js/chart-master/Chart.js"></script>
-
+    <script src="${request.contextPath}/js/angular.js"></script>
+    <script src="${request.contextPath}/js/app.js"></script>
+    <script src="${request.contextPath}/js/controllers/perfil.js"></script>
 </head>
 
 
-<body>
+<body ng-app="G-Lito">
 
 <section id="container" >
     <!--  Seccion 1
@@ -59,7 +61,7 @@
       *********************************************************************
       -->
     <!--Menu-->
-    <aside>
+    <aside ng-controller="navCtrl">
         <div id="sidebar"  class="nav-collapse ">
             <ul class="sidebar-menu" id="nav-accordion">
 
@@ -77,7 +79,7 @@
 
                 <!--Finaliza Datos de Usuario  -->
 
-                <li class="mt">
+                <li class="mt" ng-click="selecciona('perfil')">
                     <a class="active" href="${request.contextPath}/perfil/index">
                         <i class="fa fa-dashboard"></i>
                         <span>Introducción</span>
