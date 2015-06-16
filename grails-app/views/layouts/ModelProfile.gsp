@@ -63,10 +63,17 @@
         <div id="sidebar"  class="nav-collapse ">
             <ul class="sidebar-menu" id="nav-accordion">
 
-                <p class="centered"><a href="profile.html"><img src="${request.contextPath}/perfil/img/images1.png" class="img-circle" width="60"></a></p>
+                <p class="centered">
+                    <img src="${request.contextPath}/perfil/img/images1.png" class="img-circle" width="50">
+                </p>
 
                 <!--Inicia Datos de Usuario  -->
-
+                <li class="centered">
+                    <h4 style="text-transform: capitalize; color: #DDDDDD" class="form-reg-heading">
+                        ${applicationContext.servletContext.getAttribute("usuario").getFirstName()}
+                        ${applicationContext.servletContext.getAttribute("usuario").getLastName()}
+                    </h4>
+                </li>
 
                 <!--Finaliza Datos de Usuario  -->
 
@@ -97,7 +104,7 @@
                 </li>
                 <li class="sub-menu">
                     <a href="${request.contextPath}/nivel4/index" >
-                        <i class="fa fa-tasks"></i>
+                        <i class="fa fa-desktop"></i>
                         <span>Nivel 4</span>
                     </a>
                 </li>

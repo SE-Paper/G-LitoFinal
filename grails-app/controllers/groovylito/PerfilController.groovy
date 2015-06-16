@@ -1,5 +1,6 @@
 package groovylito
 
+import groovylito.user.User
 import org.springframework.security.access.annotation.Secured
 
 import static org.springframework.http.HttpStatus.*
@@ -14,6 +15,8 @@ class PerfilController {
     def index(Integer max) {
         params.max = Math.min(max ?: 10, 100)
         respond Perfil.list(params), model:[perfilInstanceCount: Perfil.count()]
+        def user = User.findWhere(username: sec.loggedInUserInfo(field: 'username'))
+        applicationContext.servletContext.setAttribute("usuario", user)
     }
 
     def show(Perfil perfilInstance) {
